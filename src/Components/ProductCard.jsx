@@ -1,10 +1,13 @@
 import React from 'react';
 import { FaStarHalfAlt } from "react-icons/fa";
 import { MdOutlineFileDownload } from "react-icons/md";
+import { Link } from 'react-router';
 
 const ProductCard = ({product}) => {
     return (
-        <div className="card bg-base-100 border mt-3 shadow-lg hover:scale-105 transition ease-in-out">
+        
+      <Link to={`/appsDetails/${product.id}`}>
+      <div className="card bg-base-100 border mt-3 shadow-lg hover:scale-105 transition ease-in-out">
   <figure className='h-[150px] overflow-hidden p-4 bg-gray-300'>
     <img className='w-full object-cover p-2'
       src={product.image}
@@ -18,7 +21,7 @@ const ProductCard = ({product}) => {
       <span className="flex items-center bg-[#F1F5E8] p-1 rounded text-[#FF8811]"><FaStarHalfAlt  className='mr-2' />{product.ratingAvg}</span>
     </div>
   </div>
-</div>
+</div></Link>
     );
 };
 
