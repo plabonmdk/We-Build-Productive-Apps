@@ -12,17 +12,19 @@ const router = createBrowserRouter([
     path: "/",
     errorElement:<ErrorPage></ErrorPage>,
     element: <MainLayout></MainLayout>,
+    hydrateFallbackElement:<p>Loading........</p>,
     children: [
       {
         path: "/",
         element: <Home />,
+        loader:()=> fetch("./Data.json"),
       },
       {
-        path: "/Apps",
+        path: "/apps",
         element: <Apps></Apps>,
       },
       {
-        path: "/Installation",
+        path: "/installation",
         element: <Installation></Installation>,
       },
     ],

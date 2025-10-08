@@ -40,13 +40,13 @@ const Navbar = () => {
               </li>
               <li className="hover:text-[#632EE3]">
                 {" "}
-                <NavLink to="/">Installation</NavLink>
+                <NavLink to="/installation">Installation</NavLink>
               </li>
             </ul>
           </div>
           <div className="flex items-center ">
             <img className="h-[50px] w-[50px]" src={naveLogo} alt="" />
-            <Link to="/" className="btn btn-ghost text-[#632EE3] text-xl">
+            <Link to="/" className="ml-5 text-[#632EE3] text-xl">
               HERO.IO
             </Link>
           </div>
@@ -63,12 +63,12 @@ const Navbar = () => {
             </li>
             <li className="hover:text-[#632EE3]">
               {" "}
-              <NavLink to="/">Installation</NavLink>
+              <NavLink to="/installation">Installation</NavLink>
             </li>
           </ul>
         </div>
         <div className="navbar-end">
-          <NavLink className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-4 py-2 rounded-lg flex items-center gap-2">
+          <NavLink to="https://github.com/plabonmdk/We-Build-Productive-Apps.git" className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-4 py-2 rounded-lg flex items-center gap-2">
             <FaGithub />
             Contribute
           </NavLink>

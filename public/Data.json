@@ -1,0 +1,1718 @@
+[
+  {
+    "image": "https://via.placeholder.com/150?text=App+1",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "WhatsApp Messenger is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 44,
+    "reviews": 318309,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 865
+      },
+      {
+        "name": "2 star",
+        "count": 4091
+      },
+      {
+        "name": "3 star",
+        "count": 13676
+      },
+      {
+        "name": "4 star",
+        "count": 37848
+      },
+      {
+        "name": "5 star",
+        "count": 246939
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+2",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Instagram is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 103,
+    "reviews": 302109,
+    "ratingAvg": 5.0,
+    "downloads": 8,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3910
+      },
+      {
+        "name": "2 star",
+        "count": 2011
+      },
+      {
+        "name": "3 star",
+        "count": 16727
+      },
+      {
+        "name": "4 star",
+        "count": 46144
+      },
+      {
+        "name": "5 star",
+        "count": 270728
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+3",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Facebook is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 65,
+    "reviews": 440676,
+    "ratingAvg": 4.5,
+    "downloads": 3,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3568
+      },
+      {
+        "name": "2 star",
+        "count": 3990
+      },
+      {
+        "name": "3 star",
+        "count": 12196
+      },
+      {
+        "name": "4 star",
+        "count": 20513
+      },
+      {
+        "name": "5 star",
+        "count": 226744
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+4",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Google Maps is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 119,
+    "reviews": 293016,
+    "ratingAvg": 4.5,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1232
+      },
+      {
+        "name": "2 star",
+        "count": 1436
+      },
+      {
+        "name": "3 star",
+        "count": 9799
+      },
+      {
+        "name": "4 star",
+        "count": 28751
+      },
+      {
+        "name": "5 star",
+        "count": 166831
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+5",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "Gmail is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 95,
+    "reviews": 451153,
+    "ratingAvg": 4.9,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 665
+      },
+      {
+        "name": "2 star",
+        "count": 4256
+      },
+      {
+        "name": "3 star",
+        "count": 9915
+      },
+      {
+        "name": "4 star",
+        "count": 19844
+      },
+      {
+        "name": "5 star",
+        "count": 367331
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+6",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 102,
+    "reviews": 296875,
+    "ratingAvg": 3.6,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 749
+      },
+      {
+        "name": "2 star",
+        "count": 4889
+      },
+      {
+        "name": "3 star",
+        "count": 15609
+      },
+      {
+        "name": "4 star",
+        "count": 43084
+      },
+      {
+        "name": "5 star",
+        "count": 475929
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+7",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Snapchat is a top-rated app by Snap Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 145,
+    "reviews": 50850,
+    "ratingAvg": 4.2,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2865
+      },
+      {
+        "name": "2 star",
+        "count": 1538
+      },
+      {
+        "name": "3 star",
+        "count": 10719
+      },
+      {
+        "name": "4 star",
+        "count": 20589
+      },
+      {
+        "name": "5 star",
+        "count": 237221
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+8",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 8,
+    "description": "TikTok is a top-rated app by TikTok Pte. Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 88,
+    "reviews": 214282,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 103
+      },
+      {
+        "name": "2 star",
+        "count": 3663
+      },
+      {
+        "name": "3 star",
+        "count": 7578
+      },
+      {
+        "name": "4 star",
+        "count": 29781
+      },
+      {
+        "name": "5 star",
+        "count": 433555
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+9",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 9,
+    "description": "Spotify is a top-rated app by Spotify Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 63,
+    "reviews": 390107,
+    "ratingAvg": 3.9,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 644
+      },
+      {
+        "name": "2 star",
+        "count": 2297
+      },
+      {
+        "name": "3 star",
+        "count": 9879
+      },
+      {
+        "name": "4 star",
+        "count": 44048
+      },
+      {
+        "name": "5 star",
+        "count": 327973
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+10",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Netflix is a top-rated app by Netflix, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 89,
+    "reviews": 223766,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 496
+      },
+      {
+        "name": "2 star",
+        "count": 3519
+      },
+      {
+        "name": "3 star",
+        "count": 16061
+      },
+      {
+        "name": "4 star",
+        "count": 49120
+      },
+      {
+        "name": "5 star",
+        "count": 414399
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+11",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Amazon Shopping is a top-rated app by Amazon Mobile LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 49,
+    "reviews": 14893,
+    "ratingAvg": 4.3,
+    "downloads": 8,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2440
+      },
+      {
+        "name": "2 star",
+        "count": 1934
+      },
+      {
+        "name": "3 star",
+        "count": 17177
+      },
+      {
+        "name": "4 star",
+        "count": 41888
+      },
+      {
+        "name": "5 star",
+        "count": 225297
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+12",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 12,
+    "description": "Twitter is a top-rated app by Twitter, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 55,
+    "reviews": 217325,
+    "ratingAvg": 3.9,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1565
+      },
+      {
+        "name": "2 star",
+        "count": 1757
+      },
+      {
+        "name": "3 star",
+        "count": 11550
+      },
+      {
+        "name": "4 star",
+        "count": 49488
+      },
+      {
+        "name": "5 star",
+        "count": 362859
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+13",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 13,
+    "description": "LinkedIn is a top-rated app by LinkedIn Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 98,
+    "reviews": 328899,
+    "ratingAvg": 3.8,
+    "downloads": 8,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4420
+      },
+      {
+        "name": "2 star",
+        "count": 4773
+      },
+      {
+        "name": "3 star",
+        "count": 9351
+      },
+      {
+        "name": "4 star",
+        "count": 24436
+      },
+      {
+        "name": "5 star",
+        "count": 373405
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+14",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 14,
+    "description": "Zoom Cloud Meetings is a top-rated app by Zoom Video Communications, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 126,
+    "reviews": 257284,
+    "ratingAvg": 4.9,
+    "downloads": 3,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1741
+      },
+      {
+        "name": "2 star",
+        "count": 1860
+      },
+      {
+        "name": "3 star",
+        "count": 9117
+      },
+      {
+        "name": "4 star",
+        "count": 16615
+      },
+      {
+        "name": "5 star",
+        "count": 130031
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+15",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 15,
+    "description": "Telegram is a top-rated app by Telegram FZ-LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 144,
+    "reviews": 417391,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 553
+      },
+      {
+        "name": "2 star",
+        "count": 4417
+      },
+      {
+        "name": "3 star",
+        "count": 8578
+      },
+      {
+        "name": "4 star",
+        "count": 36995
+      },
+      {
+        "name": "5 star",
+        "count": 278966
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+16",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 16,
+    "description": "Pinterest is a top-rated app by Pinterest, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 122,
+    "reviews": 85964,
+    "ratingAvg": 4.4,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3221
+      },
+      {
+        "name": "2 star",
+        "count": 1972
+      },
+      {
+        "name": "3 star",
+        "count": 5753
+      },
+      {
+        "name": "4 star",
+        "count": 34650
+      },
+      {
+        "name": "5 star",
+        "count": 174362
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+17",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 17,
+    "description": "Reddit is a top-rated app by Reddit, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 36,
+    "reviews": 361563,
+    "ratingAvg": 3.8,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3391
+      },
+      {
+        "name": "2 star",
+        "count": 4287
+      },
+      {
+        "name": "3 star",
+        "count": 17098
+      },
+      {
+        "name": "4 star",
+        "count": 28079
+      },
+      {
+        "name": "5 star",
+        "count": 305547
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+18",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Google Drive is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 58,
+    "reviews": 42020,
+    "ratingAvg": 3.7,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1956
+      },
+      {
+        "name": "2 star",
+        "count": 2242
+      },
+      {
+        "name": "3 star",
+        "count": 14120
+      },
+      {
+        "name": "4 star",
+        "count": 11240
+      },
+      {
+        "name": "5 star",
+        "count": 323506
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+19",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 19,
+    "description": "Microsoft Outlook is a top-rated app by Microsoft Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 85,
+    "reviews": 354334,
+    "ratingAvg": 4.0,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1723
+      },
+      {
+        "name": "2 star",
+        "count": 320
+      },
+      {
+        "name": "3 star",
+        "count": 14188
+      },
+      {
+        "name": "4 star",
+        "count": 14139
+      },
+      {
+        "name": "5 star",
+        "count": 304648
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+20",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "id": 20,
+    "description": "Microsoft Word is a top-rated app by Microsoft Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 117,
+    "reviews": 36971,
+    "ratingAvg": 4.0,
+    "downloads": 3,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 973
+      },
+      {
+        "name": "2 star",
+        "count": 2581
+      },
+      {
+        "name": "3 star",
+        "count": 7697
+      },
+      {
+        "name": "4 star",
+        "count": 28231
+      },
+      {
+        "name": "5 star",
+        "count": 439954
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+21",
+    "title": "Slack",
+    "companyName": "Slack Technologies, Inc.",
+    "id": 21,
+    "description": "Slack is a top-rated app by Slack Technologies, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 58,
+    "reviews": 488734,
+    "ratingAvg": 3.6,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3816
+      },
+      {
+        "name": "2 star",
+        "count": 304
+      },
+      {
+        "name": "3 star",
+        "count": 11703
+      },
+      {
+        "name": "4 star",
+        "count": 46019
+      },
+      {
+        "name": "5 star",
+        "count": 441186
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+22",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 22,
+    "description": "Discord is a top-rated app by Discord Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 140,
+    "reviews": 183371,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2518
+      },
+      {
+        "name": "2 star",
+        "count": 1329
+      },
+      {
+        "name": "3 star",
+        "count": 5209
+      },
+      {
+        "name": "4 star",
+        "count": 14452
+      },
+      {
+        "name": "5 star",
+        "count": 242658
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+23",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "id": 23,
+    "description": "Khan Academy is a top-rated app by Khan Academy.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 103,
+    "reviews": 79758,
+    "ratingAvg": 4.3,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3527
+      },
+      {
+        "name": "2 star",
+        "count": 1125
+      },
+      {
+        "name": "3 star",
+        "count": 11661
+      },
+      {
+        "name": "4 star",
+        "count": 18993
+      },
+      {
+        "name": "5 star",
+        "count": 483078
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+24",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 24,
+    "description": "Duolingo is a top-rated app by Duolingo, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 53,
+    "reviews": 140088,
+    "ratingAvg": 3.9,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2363
+      },
+      {
+        "name": "2 star",
+        "count": 3619
+      },
+      {
+        "name": "3 star",
+        "count": 16540
+      },
+      {
+        "name": "4 star",
+        "count": 28568
+      },
+      {
+        "name": "5 star",
+        "count": 300419
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+25",
+    "title": "Coursera",
+    "companyName": "Coursera Inc.",
+    "id": 25,
+    "description": "Coursera is a top-rated app by Coursera Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 120,
+    "reviews": 315310,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3300
+      },
+      {
+        "name": "2 star",
+        "count": 3451
+      },
+      {
+        "name": "3 star",
+        "count": 5958
+      },
+      {
+        "name": "4 star",
+        "count": 47736
+      },
+      {
+        "name": "5 star",
+        "count": 261575
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+26",
+    "title": "Udemy",
+    "companyName": "Udemy, Inc.",
+    "id": 26,
+    "description": "Udemy is a top-rated app by Udemy, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 38,
+    "reviews": 301388,
+    "ratingAvg": 3.6,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4265
+      },
+      {
+        "name": "2 star",
+        "count": 77
+      },
+      {
+        "name": "3 star",
+        "count": 17274
+      },
+      {
+        "name": "4 star",
+        "count": 23028
+      },
+      {
+        "name": "5 star",
+        "count": 271441
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+27",
+    "title": "Shazam",
+    "companyName": "Apple, Inc.",
+    "id": 27,
+    "description": "Shazam is a top-rated app by Apple, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 119,
+    "reviews": 15692,
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3660
+      },
+      {
+        "name": "2 star",
+        "count": 88
+      },
+      {
+        "name": "3 star",
+        "count": 11620
+      },
+      {
+        "name": "4 star",
+        "count": 17910
+      },
+      {
+        "name": "5 star",
+        "count": 496699
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+28",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 28,
+    "description": "Google Photos is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 129,
+    "reviews": 409303,
+    "ratingAvg": 3.6,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 513
+      },
+      {
+        "name": "2 star",
+        "count": 858
+      },
+      {
+        "name": "3 star",
+        "count": 5725
+      },
+      {
+        "name": "4 star",
+        "count": 41008
+      },
+      {
+        "name": "5 star",
+        "count": 298791
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+29",
+    "title": "PayPal",
+    "companyName": "PayPal Mobile",
+    "id": 29,
+    "description": "PayPal is a top-rated app by PayPal Mobile.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 36,
+    "reviews": 497023,
+    "ratingAvg": 4.8,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4706
+      },
+      {
+        "name": "2 star",
+        "count": 2213
+      },
+      {
+        "name": "3 star",
+        "count": 8227
+      },
+      {
+        "name": "4 star",
+        "count": 11548
+      },
+      {
+        "name": "5 star",
+        "count": 243638
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+30",
+    "title": "Venmo",
+    "companyName": "PayPal, Inc.",
+    "id": 30,
+    "description": "Venmo is a top-rated app by PayPal, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 102,
+    "reviews": 14293,
+    "ratingAvg": 3.7,
+    "downloads": 7,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1851
+      },
+      {
+        "name": "2 star",
+        "count": 2849
+      },
+      {
+        "name": "3 star",
+        "count": 6483
+      },
+      {
+        "name": "4 star",
+        "count": 39422
+      },
+      {
+        "name": "5 star",
+        "count": 97654
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+31",
+    "title": "Cash App",
+    "companyName": "Block, Inc.",
+    "id": 31,
+    "description": "Cash App is a top-rated app by Block, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 44,
+    "reviews": 15156,
+    "ratingAvg": 3.7,
+    "downloads": 3,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4234
+      },
+      {
+        "name": "2 star",
+        "count": 4668
+      },
+      {
+        "name": "3 star",
+        "count": 10954
+      },
+      {
+        "name": "4 star",
+        "count": 29933
+      },
+      {
+        "name": "5 star",
+        "count": 471431
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+32",
+    "title": "Robinhood",
+    "companyName": "Robinhood Markets, Inc.",
+    "id": 32,
+    "description": "Robinhood is a top-rated app by Robinhood Markets, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 42,
+    "reviews": 45608,
+    "ratingAvg": 4.7,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4179
+      },
+      {
+        "name": "2 star",
+        "count": 4476
+      },
+      {
+        "name": "3 star",
+        "count": 16444
+      },
+      {
+        "name": "4 star",
+        "count": 44336
+      },
+      {
+        "name": "5 star",
+        "count": 273729
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+33",
+    "title": "Spotify Kids",
+    "companyName": "Spotify Ltd.",
+    "id": 33,
+    "description": "Spotify Kids is a top-rated app by Spotify Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 82,
+    "reviews": 168767,
+    "ratingAvg": 3.7,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2874
+      },
+      {
+        "name": "2 star",
+        "count": 4392
+      },
+      {
+        "name": "3 star",
+        "count": 17198
+      },
+      {
+        "name": "4 star",
+        "count": 18794
+      },
+      {
+        "name": "5 star",
+        "count": 267555
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+34",
+    "title": "Google Calendar",
+    "companyName": "Google LLC",
+    "id": 34,
+    "description": "Google Calendar is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 119,
+    "reviews": 275980,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1390
+      },
+      {
+        "name": "2 star",
+        "count": 2904
+      },
+      {
+        "name": "3 star",
+        "count": 17445
+      },
+      {
+        "name": "4 star",
+        "count": 27910
+      },
+      {
+        "name": "5 star",
+        "count": 382300
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+35",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe",
+    "id": 35,
+    "description": "Adobe Acrobat Reader is a top-rated app by Adobe.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 47,
+    "reviews": 467590,
+    "ratingAvg": 4.0,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4475
+      },
+      {
+        "name": "2 star",
+        "count": 3588
+      },
+      {
+        "name": "3 star",
+        "count": 12149
+      },
+      {
+        "name": "4 star",
+        "count": 11835
+      },
+      {
+        "name": "5 star",
+        "count": 108709
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+36",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 36,
+    "description": "Canva is a top-rated app by Canva.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 80,
+    "reviews": 34339,
+    "ratingAvg": 5.0,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1941
+      },
+      {
+        "name": "2 star",
+        "count": 4191
+      },
+      {
+        "name": "3 star",
+        "count": 18502
+      },
+      {
+        "name": "4 star",
+        "count": 19289
+      },
+      {
+        "name": "5 star",
+        "count": 198478
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+37",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 37,
+    "description": "Trello is a top-rated app by Atlassian.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 150,
+    "reviews": 479507,
+    "ratingAvg": 3.9,
+    "downloads": 7,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2298
+      },
+      {
+        "name": "2 star",
+        "count": 3775
+      },
+      {
+        "name": "3 star",
+        "count": 18994
+      },
+      {
+        "name": "4 star",
+        "count": 20758
+      },
+      {
+        "name": "5 star",
+        "count": 119813
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+38",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 38,
+    "description": "Evernote is a top-rated app by Evernote Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 47,
+    "reviews": 213843,
+    "ratingAvg": 3.9,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1034
+      },
+      {
+        "name": "2 star",
+        "count": 3610
+      },
+      {
+        "name": "3 star",
+        "count": 8013
+      },
+      {
+        "name": "4 star",
+        "count": 26732
+      },
+      {
+        "name": "5 star",
+        "count": 259361
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+39",
+    "title": "Waze",
+    "companyName": "Google LLC",
+    "id": 39,
+    "description": "Waze is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 150,
+    "reviews": 316130,
+    "ratingAvg": 4.8,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4824
+      },
+      {
+        "name": "2 star",
+        "count": 4749
+      },
+      {
+        "name": "3 star",
+        "count": 18984
+      },
+      {
+        "name": "4 star",
+        "count": 25376
+      },
+      {
+        "name": "5 star",
+        "count": 231031
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+40",
+    "title": "Google Keep",
+    "companyName": "Google LLC",
+    "id": 40,
+    "description": "Google Keep is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 54,
+    "reviews": 239823,
+    "ratingAvg": 4.7,
+    "downloads": 1,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1860
+      },
+      {
+        "name": "2 star",
+        "count": 1923
+      },
+      {
+        "name": "3 star",
+        "count": 8967
+      },
+      {
+        "name": "4 star",
+        "count": 44629
+      },
+      {
+        "name": "5 star",
+        "count": 215031
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+41",
+    "title": "Paytm",
+    "companyName": "Paytm",
+    "id": 41,
+    "description": "Paytm is a top-rated app by Paytm.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 93,
+    "reviews": 498446,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4899
+      },
+      {
+        "name": "2 star",
+        "count": 29
+      },
+      {
+        "name": "3 star",
+        "count": 11494
+      },
+      {
+        "name": "4 star",
+        "count": 30645
+      },
+      {
+        "name": "5 star",
+        "count": 374647
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+42",
+    "title": "Flipkart",
+    "companyName": "Flipkart Internet Private Limited",
+    "id": 42,
+    "description": "Flipkart is a top-rated app by Flipkart Internet Private Limited.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 31,
+    "reviews": 206616,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3597
+      },
+      {
+        "name": "2 star",
+        "count": 3025
+      },
+      {
+        "name": "3 star",
+        "count": 13193
+      },
+      {
+        "name": "4 star",
+        "count": 36070
+      },
+      {
+        "name": "5 star",
+        "count": 56608
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+43",
+    "title": "Zomato",
+    "companyName": "Zomato",
+    "id": 43,
+    "description": "Zomato is a top-rated app by Zomato.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 56,
+    "reviews": 31356,
+    "ratingAvg": 3.7,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4701
+      },
+      {
+        "name": "2 star",
+        "count": 3125
+      },
+      {
+        "name": "3 star",
+        "count": 15648
+      },
+      {
+        "name": "4 star",
+        "count": 43461
+      },
+      {
+        "name": "5 star",
+        "count": 327178
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+44",
+    "title": "Swiggy",
+    "companyName": "Bundl Technologies Private Limited",
+    "id": 44,
+    "description": "Swiggy is a top-rated app by Bundl Technologies Private Limited.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 108,
+    "reviews": 198530,
+    "ratingAvg": 4.1,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 177
+      },
+      {
+        "name": "2 star",
+        "count": 1318
+      },
+      {
+        "name": "3 star",
+        "count": 7182
+      },
+      {
+        "name": "4 star",
+        "count": 22780
+      },
+      {
+        "name": "5 star",
+        "count": 268211
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+45",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 45,
+    "description": "Uber is a top-rated app by Uber Technologies, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 83,
+    "reviews": 341113,
+    "ratingAvg": 4.4,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 417
+      },
+      {
+        "name": "2 star",
+        "count": 4325
+      },
+      {
+        "name": "3 star",
+        "count": 14395
+      },
+      {
+        "name": "4 star",
+        "count": 46320
+      },
+      {
+        "name": "5 star",
+        "count": 63775
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+46",
+    "title": "Lyft",
+    "companyName": "Lyft, Inc.",
+    "id": 46,
+    "description": "Lyft is a top-rated app by Lyft, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 131,
+    "reviews": 250498,
+    "ratingAvg": 4.4,
+    "downloads": 2,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1653
+      },
+      {
+        "name": "2 star",
+        "count": 1817
+      },
+      {
+        "name": "3 star",
+        "count": 5023
+      },
+      {
+        "name": "4 star",
+        "count": 46978
+      },
+      {
+        "name": "5 star",
+        "count": 310529
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+47",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 47,
+    "description": "Airbnb is a top-rated app by Airbnb, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 73,
+    "reviews": 237194,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4369
+      },
+      {
+        "name": "2 star",
+        "count": 832
+      },
+      {
+        "name": "3 star",
+        "count": 13429
+      },
+      {
+        "name": "4 star",
+        "count": 15439
+      },
+      {
+        "name": "5 star",
+        "count": 478810
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+48",
+    "title": "Booking.com",
+    "companyName": "Booking.com",
+    "id": 48,
+    "description": "Booking.com is a top-rated app by Booking.com.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 40,
+    "reviews": 425466,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2633
+      },
+      {
+        "name": "2 star",
+        "count": 4256
+      },
+      {
+        "name": "3 star",
+        "count": 7725
+      },
+      {
+        "name": "4 star",
+        "count": 45820
+      },
+      {
+        "name": "5 star",
+        "count": 186171
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+49",
+    "title": "Expedia",
+    "companyName": "Expedia, Inc.",
+    "id": 49,
+    "description": "Expedia is a top-rated app by Expedia, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 122,
+    "reviews": 337580,
+    "ratingAvg": 3.8,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4663
+      },
+      {
+        "name": "2 star",
+        "count": 210
+      },
+      {
+        "name": "3 star",
+        "count": 14531
+      },
+      {
+        "name": "4 star",
+        "count": 49412
+      },
+      {
+        "name": "5 star",
+        "count": 497968
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+50",
+    "title": "Tripadvisor",
+    "companyName": "Tripadvisor, Inc.",
+    "id": 50,
+    "description": "Tripadvisor is a top-rated app by Tripadvisor, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 44,
+    "reviews": 109740,
+    "ratingAvg": 4.6,
+    "downloads": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2488
+      },
+      {
+        "name": "2 star",
+        "count": 4872
+      },
+      {
+        "name": "3 star",
+        "count": 17086
+      },
+      {
+        "name": "4 star",
+        "count": 33883
+      },
+      {
+        "name": "5 star",
+        "count": 456345
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+51",
+    "title": "Hotstar",
+    "companyName": "Star India",
+    "id": 51,
+    "description": "Hotstar is a top-rated app by Star India.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 35,
+    "reviews": 456969,
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2932
+      },
+      {
+        "name": "2 star",
+        "count": 4007
+      },
+      {
+        "name": "3 star",
+        "count": 6755
+      },
+      {
+        "name": "4 star",
+        "count": 22512
+      },
+      {
+        "name": "5 star",
+        "count": 444165
+      }
+    ]
+  },
+  {
+    "image": "https://via.placeholder.com/150?text=App+52",
+    "title": "Disney+",
+    "companyName": "Disney",
+    "id": 52,
+    "description": "Disney+ is a top-rated app by Disney.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
+    "size": 85,
+    "reviews": 350699,
+    "ratingAvg": 3.8,
+    "downloads": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2151
+      },
+      {
+        "name": "2 star",
+        "count": 3540
+      },
+      {
+        "name": "3 star",
+        "count": 16014
+      },
+      {
+        "name": "4 star",
+        "count": 46007
+      },
+      {
+        "name": "5 star",
+        "count": 229663
+      }
+    ]
+  }
+]
