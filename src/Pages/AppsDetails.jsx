@@ -21,10 +21,10 @@ const AppsDetails = () => {
     ratingAvg,
   } = app || {};
 
-  // ✅ ইনস্টল স্ট্যাটাস ট্র্যাক
+  
   const [isInstalled, setIsInstalled] = useState(false);
 
-  // ✅ পেজ লোডে চেক করবো ইনস্টল করা আছে কিনা
+  
   useEffect(() => {
     const existingList = JSON.parse(localStorage.getItem("installation")) || [];
     const alreadyInstalled = existingList.some((a) => a.id === app?.id);
@@ -38,7 +38,7 @@ const AppsDetails = () => {
     const isDuplicate = existingList.some((a) => a.id === app.id);
 
     if (isDuplicate) {
-      // ✅ আগে থেকে ইনস্টল থাকলে নতুন alert
+      
       alert("⚠️ This app is already installed.");
       setIsInstalled(true);
       return;
