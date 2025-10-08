@@ -1,1718 +1,542 @@
 [
   {
-    "image": "https://via.placeholder.com/150?text=App+1",
-    "title": "WhatsApp Messenger",
-    "companyName": "Meta Platforms, Inc.",
     "id": 1,
-    "description": "WhatsApp Messenger is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 44,
-    "reviews": 318309,
-    "ratingAvg": 4.7,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 865
-      },
-      {
-        "name": "2 star",
-        "count": 4091
-      },
-      {
-        "name": "3 star",
-        "count": 13676
-      },
-      {
-        "name": "4 star",
-        "count": 37848
-      },
-      {
-        "name": "5 star",
-        "count": 246939
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+2",
-    "title": "Instagram",
-    "companyName": "Meta Platforms, Inc.",
-    "id": 2,
-    "description": "Instagram is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 103,
-    "reviews": 302109,
-    "ratingAvg": 5.0,
+    "image": "https://i.ibb.co.com/27tsNvnN/ChatEase.png",
+    "title": "ChatEase",
+    "companyName": "TechNova Inc.",
+    "description": "ChatEase revolutionizes digital communication by offering a seamless, all-in-one messaging platform. It integrates text, voice, and video calls with unparalleled clarity. Organize your conversations with custom labels and powerful search to find any message, link, or file in seconds. With ChatEase, collaborate effortlessly using built-in screen sharing and a virtual whiteboard for team projects. Your privacy is our priority; all chats are protected with end-to-end encryption and self-destructing message options. Create themed group chats for family, friends, or work, and share moments in high definition. The app's intuitive interface adapts to your style, offering dark mode and customizable chat bubbles. Stay connected across all your devices with perfect synchronization, ensuring you never miss a beat. ChatEase is more than an app; it's your gateway to effortless and secure global communication, designed to make every conversation feel personal and protected, whether you're chatting one-on-one or coordinating with a large team across different time zones.",
+    "size": 10.0,
+    "reviews": 500,
+    "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 3910
-      },
-      {
-        "name": "2 star",
-        "count": 2011
-      },
-      {
-        "name": "3 star",
-        "count": 16727
-      },
-      {
-        "name": "4 star",
-        "count": 46144
-      },
-      {
-        "name": "5 star",
-        "count": 270728
-      }
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5000 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+3",
-    "title": "Facebook",
-    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "image": "https://i.ibb.co.com/DBVpK3G/Photo-Snap.png",
+    "title": "PhotoSnap",
+    "companyName": "PixelSoft",
+    "description": "PhotoSnap is your ultimate creative companion for capturing, editing, and sharing stunning visual stories. Unleash your inner photographer with a powerful suite of pro-level tools, including manual camera controls for shutter speed, ISO, and focus. The AI-powered editor automatically enhances your shots, suggesting perfect filters and corrections. Dive into advanced editing with layered compositions, selective color adjustments, and a vast library of artistic filters and fonts. Create mesmerizing slow-motion videos and time-lapses with ease. PhotoSnap's cloud library securely backs up every memory in full resolution, accessible from any device. Join a vibrant community of creators, participate in daily photo challenges, and get inspired. Share your masterpieces directly to social platforms or in high-quality prints. With PhotoSnap, every moment becomes a masterpiece waiting to be discovered and shared with the world, transforming your everyday photos into gallery-worthy art with just a few taps.",
+    "size": 12.5,
+    "reviews": 537,
+    "ratingAvg": 3.4,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 1010 },
+      { "name": "2 star", "count": 1510 },
+      { "name": "3 star", "count": 2010 },
+      { "name": "4 star", "count": 3010 },
+      { "name": "5 star", "count": 5010 }
+    ]
+  },
+  {
     "id": 3,
-    "description": "Facebook is a top-rated app by Meta Platforms, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 65,
-    "reviews": 440676,
-    "ratingAvg": 4.5,
+    "image": "https://i.ibb.co.com/cSXmgjjL/TaskFlow.png",
+    "title": "TaskFlow",
+    "companyName": "NextGen Labs",
+    "description": "TaskFlow transforms overwhelming to-do lists into a streamlined workflow for unparalleled productivity. This intelligent task manager uses a unique kanban-board interface, allowing you to visualize your projects from 'To-Do' to 'Done' with a simple drag-and-drop. Break down ambitious goals into manageable sub-tasks and set deadlines with smart reminders that adapt to your schedule. The integrated focus timer, based on the Pomodoro technique, helps you maintain deep concentration and prevent burnout. Collaborate with your team by assigning tasks, sharing files, and leaving comments in real-time. Generate detailed productivity reports to analyze your work patterns and optimize your efficiency. With seamless cross-platform synchronization, your tasks are always up-to-date, whether you're on your phone, tablet, or computer. TaskFlow doesn't just manage your tasks; it empowers you to achieve more with less stress and greater clarity, making it the perfect digital companion for students, professionals, and anyone looking to bring order to their busy life.",
+    "size": 15.0,
+    "reviews": 574,
+    "ratingAvg": 3.8,
     "downloads": 3,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 3568
-      },
-      {
-        "name": "2 star",
-        "count": 3990
-      },
-      {
-        "name": "3 star",
-        "count": 12196
-      },
-      {
-        "name": "4 star",
-        "count": 20513
-      },
-      {
-        "name": "5 star",
-        "count": 226744
-      }
+      { "name": "1 star", "count": 1020 },
+      { "name": "2 star", "count": 1520 },
+      { "name": "3 star", "count": 2020 },
+      { "name": "4 star", "count": 3020 },
+      { "name": "5 star", "count": 5020 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+4",
-    "title": "Google Maps",
-    "companyName": "Google LLC",
     "id": 4,
-    "description": "Google Maps is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 119,
-    "reviews": 293016,
-    "ratingAvg": 4.5,
-    "downloads": 1,
+    "image": "https://i.ibb.co.com/0VmMcJHZ/Foodie-Hub.png",
+    "title": "FoodieHub",
+    "companyName": "FoodTech Ltd.",
+    "description": "FoodieHub is the ultimate digital destination for every food lover, from home cooks to seasoned gourmets. Discover millions of recipes from global cuisines, with step-by-step video guides and personalized recommendations based on your dietary preferences and pantry items. Create weekly meal plans and generate automated shopping lists that sync with your local grocery stores for easy pickup or delivery. Watch live cooking classes from world-renowned chefs and connect with a community of foodies to share your creations. The app also features a comprehensive restaurant guide, allowing you to explore menus, book tables, and order delivery from the best eateries in your city. Track your culinary journey, save your favorite dishes, and master new cooking techniques. FoodieHub is more than an app; it's your personal chef, nutritionist, and food guide, all designed to inspire your next delicious adventure in the kitchen and beyond, helping you reduce food waste and eat healthier without sacrificing flavor or fun.",
+    "size": 17.5,
+    "reviews": 611,
+    "ratingAvg": 4.2,
+    "downloads": 10,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 1232
-      },
-      {
-        "name": "2 star",
-        "count": 1436
-      },
-      {
-        "name": "3 star",
-        "count": 9799
-      },
-      {
-        "name": "4 star",
-        "count": 28751
-      },
-      {
-        "name": "5 star",
-        "count": 166831
-      }
+      { "name": "1 star", "count": 1030 },
+      { "name": "2 star", "count": 1530 },
+      { "name": "3 star", "count": 2030 },
+      { "name": "4 star", "count": 3030 },
+      { "name": "5 star", "count": 5030 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+5",
-    "title": "Gmail",
-    "companyName": "Google LLC",
     "id": 5,
-    "description": "Gmail is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 95,
-    "reviews": 451153,
-    "ratingAvg": 4.9,
+    "image": "https://i.ibb.co.com/XxpV7t9x/FitTrack.png",
+    "title": "FitTrack",
+    "companyName": "FitLife Co.",
+    "description": "FitTrack is your comprehensive personal fitness coach, dedicated to helping you achieve your health and wellness goals. It goes beyond simple step counting by offering detailed activity tracking for over 100 different workout types, from running and cycling to yoga and HIIT. The app syncs with your wearable devices to monitor heart rate, sleep patterns, and blood oxygen levels, providing a holistic view of your health. Receive personalized workout and nutrition plans crafted by certified trainers that adapt based on your progress and feedback. Join live fitness classes with real-time feedback or follow guided audio sessions for the gym or home. Log your meals with a massive food database and get detailed macronutrient insights. Connect with friends for motivation, share achievements, and participate in community challenges. FitTrack empowers your journey with data-driven insights and unwavering support, turning fitness aspirations into lasting lifestyle changes and helping you build a stronger, healthier version of yourself every day.",
+    "size": 20.0,
+    "reviews": 648,
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1040 },
+      { "name": "2 star", "count": 1540 },
+      { "name": "3 star", "count": 2040 },
+      { "name": "4 star", "count": 3040 },
+      { "name": "5 star", "count": 5040 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/RGPZxDQB/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "GlobeTrotters",
+    "description": "TravelMate is your ultimate intelligent travel companion, designed to transform every trip into a seamless and unforgettable adventure. The app acts as your personal travel agent, offering end-to-end trip planning with smart itinerary builders that optimize your schedule based on interests, weather, and local events. Get real-time flight alerts, gate changes, and baggage claim information. Explore hidden gems and popular attractions with offline maps and curated guides written by local experts. TravelMate simplifies bookings by comparing prices for hotels, rental cars, and experiences across multiple platforms. Manage your budget with a built-in expense tracker that automatically converts currencies. Stay safe with emergency alerts, embassy locations, and phrasebooks for over 50 languages. Share your live location with trusted contacts and access 24/7 travel support. With TravelMate, you can wander off the beaten path with confidence, knowing that every detail of your journey is meticulously organized and accessible in your pocket, making travel smarter and more spontaneous than ever before.",
+    "size": 22.5,
+    "reviews": 685,
+    "ratingAvg": 3.0,
     "downloads": 2,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 665
-      },
-      {
-        "name": "2 star",
-        "count": 4256
-      },
-      {
-        "name": "3 star",
-        "count": 9915
-      },
-      {
-        "name": "4 star",
-        "count": 19844
-      },
-      {
-        "name": "5 star",
-        "count": 367331
-      }
+      { "name": "1 star", "count": 1050 },
+      { "name": "2 star", "count": 1550 },
+      { "name": "3 star", "count": 2050 },
+      { "name": "4 star", "count": 3050 },
+      { "name": "5 star", "count": 5050 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+6",
-    "title": "YouTube",
-    "companyName": "Google LLC",
-    "id": 6,
-    "description": "YouTube is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 102,
-    "reviews": 296875,
-    "ratingAvg": 3.6,
+    "id": 7,
+    "image": "https://i.ibb.co.com/6RQqY2rt/Study-Smart.png",
+    "title": "StudySmart",
+    "companyName": "EduSpark",
+    "description": "StudySmart revolutionizes learning through adaptive technology that personalizes your educational journey. This intelligent platform identifies your knowledge gaps and learning style to create custom study plans that maximize retention and understanding. Utilize AI-powered flashcards that adjust their frequency based on your mastery level, and generate practice tests tailored to your upcoming exams. The app's distraction-free focus mode blocks notifications and tracks productive study sessions. Collaborate with study groups through shared notebooks and virtual whiteboards, making remote learning as effective as in-person sessions. Access a vast library of explanatory videos, interactive diagrams, and summaries for countless subjects. Set achievable goals, track your progress with detailed analytics, and earn badges for milestones. StudySmart supports OCR technology, allowing you to scan handwritten notes and transform them into digital study guides. Whether you're preparing for standardized tests or mastering new skills, StudySmart provides the tools and insights to learn more efficiently and build lasting knowledge with confidence and clarity.",
+    "size": 25.0,
+    "reviews": 722,
+    "ratingAvg": 3.4,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 1060 },
+      { "name": "2 star", "count": 1560 },
+      { "name": "3 star", "count": 2060 },
+      { "name": "4 star", "count": 3060 },
+      { "name": "5 star", "count": 5060 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/jkpNThYn/Music-Wave.png",
+    "title": "MusicWave",
+    "companyName": "Wave Studios",
+    "description": "MusicWave delivers an immersive audio experience that goes beyond traditional music streaming. Discover millions of songs, curated playlists, and exclusive releases tailored to your taste through sophisticated algorithms that learn from your listening habits. Create and share your own mixes with professional-grade editing tools, including crossfading, EQ adjustments, and beat-matching. Dive into high-fidelity audio streaming and 3D spatial sound for a concert-like experience. Follow your favorite artists for behind-the-scenes content, live stream performances, and early ticket access. MusicWave's social features let you see what friends are listening to and collaborate on shared playlists. The integrated lyrics display syncs in real-time for instant karaoke sessions. Download your music for offline listening without compromising quality. With personalized daily mixes, mood-based stations, and discovery radios that introduce you to new genres, MusicWave isn't just a music app—it's your personal audio universe, constantly evolving to score every moment of your life with the perfect soundtrack, whether you're working out, relaxing, or hosting a party.",
+    "size": 27.5,
+    "reviews": 759,
+    "ratingAvg": 3.8,
     "downloads": 6,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 749
-      },
-      {
-        "name": "2 star",
-        "count": 4889
-      },
-      {
-        "name": "3 star",
-        "count": 15609
-      },
-      {
-        "name": "4 star",
-        "count": 43084
-      },
-      {
-        "name": "5 star",
-        "count": 475929
-      }
+      { "name": "1 star", "count": 1070 },
+      { "name": "2 star", "count": 1570 },
+      { "name": "3 star", "count": 2070 },
+      { "name": "4 star", "count": 3070 },
+      { "name": "5 star", "count": 5070 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+7",
-    "title": "Snapchat",
-    "companyName": "Snap Inc.",
-    "id": 7,
-    "description": "Snapchat is a top-rated app by Snap Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 145,
-    "reviews": 50850,
-    "ratingAvg": 4.2,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2865
-      },
-      {
-        "name": "2 star",
-        "count": 1538
-      },
-      {
-        "name": "3 star",
-        "count": 10719
-      },
-      {
-        "name": "4 star",
-        "count": 20589
-      },
-      {
-        "name": "5 star",
-        "count": 237221
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+8",
-    "title": "TikTok",
-    "companyName": "TikTok Pte. Ltd.",
-    "id": 8,
-    "description": "TikTok is a top-rated app by TikTok Pte. Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 88,
-    "reviews": 214282,
-    "ratingAvg": 4.3,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 103
-      },
-      {
-        "name": "2 star",
-        "count": 3663
-      },
-      {
-        "name": "3 star",
-        "count": 7578
-      },
-      {
-        "name": "4 star",
-        "count": 29781
-      },
-      {
-        "name": "5 star",
-        "count": 433555
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+9",
-    "title": "Spotify",
-    "companyName": "Spotify Ltd.",
     "id": 9,
-    "description": "Spotify is a top-rated app by Spotify Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 63,
-    "reviews": 390107,
-    "ratingAvg": 3.9,
-    "downloads": 2,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 644
-      },
-      {
-        "name": "2 star",
-        "count": 2297
-      },
-      {
-        "name": "3 star",
-        "count": 9879
-      },
-      {
-        "name": "4 star",
-        "count": 44048
-      },
-      {
-        "name": "5 star",
-        "count": 327973
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+10",
-    "title": "Netflix",
-    "companyName": "Netflix, Inc.",
-    "id": 10,
-    "description": "Netflix is a top-rated app by Netflix, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 89,
-    "reviews": 223766,
+    "image": "https://i.ibb.co.com/7JQGjKc9/GameZone.png",
+    "title": "GameZone",
+    "companyName": "PlayMax",
+    "description": "GameZone is the ultimate mobile gaming platform, offering an extensive library of games across every genre imaginable. From intense action RPGs and strategic puzzles to casual arcade classics and immersive multiplayer experiences, GameZone brings console-quality gaming to your fingertips. Enjoy exclusive titles you won't find anywhere else, with new games added weekly. The app's cloud saving feature ensures your progress is secure across all devices. Compete in global tournaments with real-time leaderboards and earn rewards for your achievements. Connect with friends through voice chat, send challenges, and form guilds to conquer cooperative missions. GameZone's subscription service provides ad-free gaming, early access to new releases, and premium content. Optimize your gameplay with performance boosters that enhance frame rates and reduce loading times. Participate in developer Q&A sessions, beta test upcoming games, and influence future updates. Whether you have five minutes or five hours, GameZone delivers captivating entertainment tailored to your schedule, creating a vibrant community where every player can find their next gaming obsession and connect with fellow enthusiasts worldwide.",
+    "size": 30.0,
+    "reviews": 796,
     "ratingAvg": 4.2,
     "downloads": 9,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 496
-      },
-      {
-        "name": "2 star",
-        "count": 3519
-      },
-      {
-        "name": "3 star",
-        "count": 16061
-      },
-      {
-        "name": "4 star",
-        "count": 49120
-      },
-      {
-        "name": "5 star",
-        "count": 414399
-      }
+      { "name": "1 star", "count": 1080 },
+      { "name": "2 star", "count": 1580 },
+      { "name": "3 star", "count": 2080 },
+      { "name": "4 star", "count": 3080 },
+      { "name": "5 star", "count": 5080 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+11",
-    "title": "Amazon Shopping",
-    "companyName": "Amazon Mobile LLC",
+    "id": 10,
+    "image": "https://i.ibb.co.com/Rk959ZgB/ShopEasy.png",
+    "title": "ShopEasy",
+    "companyName": "EasyMart",
+    "description": "ShopEasy revolutionizes your shopping experience by bringing the entire mall to your mobile device. This intelligent shopping assistant compares prices across thousands of online retailers in real-time, ensuring you always get the best deals. Set price alerts for desired products and receive notifications when they drop. Use the visual search feature to snap a photo of any item and find similar products instantly. Create organized shopping lists for different needs—groceries, wardrobe, home goods—and share them with family members. ShopEasy's augmented reality tool lets you visualize how furniture would look in your space before purchasing. The integrated wallet securely stores payment methods and automatically applies available coupons at checkout. Track orders from multiple carriers in one place with delivery predictions. Read and write verified customer reviews, and get personalized recommendations based on your shopping history. With one-click reordering of favorites and scheduled deliveries for routine purchases, ShopEasy saves you time and money while transforming shopping from a chore into an enjoyable, efficient activity tailored perfectly to your lifestyle and preferences.",
+    "size": 32.5,
+    "reviews": 833,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 1090 },
+      { "name": "2 star", "count": 1590 },
+      { "name": "3 star", "count": 2090 },
+      { "name": "4 star", "count": 3090 },
+      { "name": "5 star", "count": 5090 }
+    ]
+  },
+  {
     "id": 11,
-    "description": "Amazon Shopping is a top-rated app by Amazon Mobile LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 49,
-    "reviews": 14893,
-    "ratingAvg": 4.3,
+    "image": "https://i.ibb.co.com/mrcBHnyZ/Finance-Pro.png",
+    "title": "FinancePro",
+    "companyName": "FinEdge",
+    "description": "FinancePro empowers you to take complete control of your financial life with sophisticated yet intuitive money management tools. Connect all your bank accounts, credit cards, loans, and investments in one secure dashboard for a holistic view of your finances. The app automatically categorizes your transactions, identifies spending patterns, and creates customizable budgets that adapt to your lifestyle. Set financial goals for saving, debt reduction, or major purchases and track your progress with motivational milestones. Receive intelligent alerts for unusual spending, bill reminders, and subscription renewals. FinancePro's investment module analyzes your portfolio, suggests diversifications, and provides market insights from certified financial experts. Plan for retirement with projection tools that account for inflation and life changes. Generate comprehensive reports for tax preparation and expense reimbursement. The app employs bank-level security with biometric authentication and encrypted data storage. With bill negotiation services that can lower your recurring expenses and a credit score simulator that shows how financial decisions impact your rating, FinancePro becomes your personal financial advisor, helping you build wealth and achieve lasting financial freedom through informed decision-making.",
+    "size": 35.0,
+    "reviews": 870,
+    "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 2440
-      },
-      {
-        "name": "2 star",
-        "count": 1934
-      },
-      {
-        "name": "3 star",
-        "count": 17177
-      },
-      {
-        "name": "4 star",
-        "count": 41888
-      },
-      {
-        "name": "5 star",
-        "count": 225297
-      }
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5100 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+12",
-    "title": "Twitter",
-    "companyName": "Twitter, Inc.",
     "id": 12,
-    "description": "Twitter is a top-rated app by Twitter, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 55,
-    "reviews": 217325,
-    "ratingAvg": 3.9,
-    "downloads": 6,
+    "image": "https://i.ibb.co.com/Xfk4Z3Tz/Weather-Now.png",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "description": "WeatherNow delivers hyper-accurate, localized weather forecasts that help you plan your days with confidence. Using advanced meteorological data from multiple sources, the app provides minute-by-minute precipitation forecasts for your exact location, telling you precisely when rain will start or stop. View interactive radar maps with futurecast technology that shows storm movement hours in advance. Receive severe weather alerts with recommended safety actions for hurricanes, tornadoes, floods, and winter storms. Plan outdoor activities with comprehensive data on UV index, air quality, pollen count, and humidity levels. WeatherNow's beautiful, customizable interfaces display exactly the information you need, whether you're a casual user or weather enthusiast. Save frequently visited locations and get forecasts for your commute, vacation spots, or loved ones' cities. The app includes historical weather data and long-range seasonal outlooks for trip planning. With detailed marine forecasts for boaters, aviation weather for pilots, and agricultural weather for farmers, WeatherNow serves specialized needs while remaining accessible to everyone. Its reliable predictions and elegant design make it the definitive weather companion for making informed decisions based on atmospheric conditions.",
+    "size": 37.5,
+    "reviews": 907,
+    "ratingAvg": 3.4,
+    "downloads": 5,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 1565
-      },
-      {
-        "name": "2 star",
-        "count": 1757
-      },
-      {
-        "name": "3 star",
-        "count": 11550
-      },
-      {
-        "name": "4 star",
-        "count": 49488
-      },
-      {
-        "name": "5 star",
-        "count": 362859
-      }
+      { "name": "1 star", "count": 1110 },
+      { "name": "2 star", "count": 1610 },
+      { "name": "3 star", "count": 2110 },
+      { "name": "4 star", "count": 3110 },
+      { "name": "5 star", "count": 5110 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+13",
-    "title": "LinkedIn",
-    "companyName": "LinkedIn Corporation",
     "id": 13,
-    "description": "LinkedIn is a top-rated app by LinkedIn Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 98,
-    "reviews": 328899,
+    "image": "https://i.ibb.co.com/h19CBDcq/Health-Sync.png",
+    "title": "HealthSync",
+    "companyName": "MediLink",
+    "description": "HealthSync serves as your comprehensive digital health assistant, centralizing all your medical information for better healthcare management. Securely store and organize your health records, including lab results, vaccination history, medication lists, and doctor's notes in one encrypted location. Track symptoms over time and identify potential patterns or triggers with intuitive logging tools. Manage multiple medications with smart reminders that alert you when to take doses, when to refill prescriptions, and warn about potential interactions. The app syncs with popular health devices and apps to aggregate data from fitness trackers, smart scales, and blood pressure monitors. Prepare for medical appointments with generated health summaries and question lists for your provider. Access reliable medical information from trusted sources to better understand conditions and treatments. Share specific health data with family members or healthcare professionals through secure portals. In emergencies, first responders can access critical information like allergies, conditions, and emergency contacts. HealthSync transforms how you engage with your health, promoting proactive management through organization, education, and seamless coordination between you and your healthcare team for improved outcomes and peace of mind.",
+    "size": 40.0,
+    "reviews": 944,
     "ratingAvg": 3.8,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 1120 },
+      { "name": "2 star", "count": 1620 },
+      { "name": "3 star", "count": 2120 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 5120 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/wNtvTQWv/News-Daily.png",
+    "title": "NewsDaily",
+    "companyName": "DailyPost",
+    "description": "NewsDaily delivers a personalized news experience that keeps you informed without overwhelming you. This intelligent news aggregator curates stories from thousands of verified sources worldwide, presenting multiple perspectives on developing stories. The app learns your interests through subtle interactions, gradually refining your news feed to highlight topics that matter most to you. Create custom news briefings for different times of day—a quick morning overview, deeper afternoon analysis, and a relaxing evening recap. Fact-check indicators highlight reliable reporting and flag potentially misleading content. Save articles for offline reading with optimized formatting that removes clutter and distractions. Follow specific storylines as they develop with timeline views that connect related events. NewsDaily's audio feature lets you listen to articles during your commute or workout, with natural-sounding voice synthesis. Share stories with personalized comments through integrated social features. With local news customization, business tracking, sports coverage, and entertainment updates, NewsDaily ensures you're always knowledgeably engaged with current events while maintaining balance through mindfulness reminders and positive news sections that highlight inspiring developments from around the world.",
+    "size": 42.5,
+    "reviews": 981,
+    "ratingAvg": 4.2,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1130 },
+      { "name": "2 star", "count": 1630 },
+      { "name": "3 star", "count": 2130 },
+      { "name": "4 star", "count": 3130 },
+      { "name": "5 star", "count": 5130 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/7JTvCJRR/Note-Craft.png",
+    "title": "NoteCraft",
+    "companyName": "CraftWorks",
+    "description": "NoteCraft reimagines digital note-taking as a creative and organizational powerhouse that adapts to your thinking process. Capture ideas in any form—typed notes, handwritten sketches, audio recordings, or web clippings—and watch as NoteCraft intelligently connects related content. The app's unique canvas interface lets you arrange notes spatially, creating visual knowledge maps that reveal relationships between concepts. Use tags, notebooks, and advanced search to instantly retrieve any information. Collaborate in real-time on shared documents with version history and commenting features. NoteCraft's handwriting recognition transforms your scribbles into searchable text while preserving the original sketch. The templates library provides structured formats for meeting notes, project plans, academic research, and creative writing. Set reminders for specific notes or entire notebooks to review important information. Export your work in multiple formats or publish directly to blogs and social platforms. With end-to-end encryption, cross-device synchronization, and offline access, NoteCraft becomes an extension of your mind, helping you capture, organize, and develop ideas more effectively than ever before, whether you're a student, professional, or lifelong learner pursuing personal projects.",
+    "size": 45.0,
+    "reviews": 1018,
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1140 },
+      { "name": "2 star", "count": 1640 },
+      { "name": "3 star", "count": 2140 },
+      { "name": "4 star", "count": 3140 },
+      { "name": "5 star", "count": 5140 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/5Xjt6Njv/RideGo.png",
+    "title": "RideGo",
+    "companyName": "RideShare",
+    "description": "RideGo transforms urban mobility by connecting you with the most efficient transportation options in real-time. Compare ride-sharing services, taxis, public transit, bike-shares, and scooter rentals in one integrated platform to find the fastest, most affordable, or most eco-friendly route. The app provides accurate ETAs and upfront pricing across all services, eliminating surprise surge pricing. Book and pay for any transportation method without switching between multiple apps. Save favorite routes and destinations for one-tap commuting. RideGo's trip planner combines different modes of transport—like biking to a train station then taking a rideshare to your final destination—for seamless multi-modal journeys. Share your trip progress with friends and family for safety. The app learns your travel patterns and suggests optimal departure times to avoid traffic. Earn rewards for choosing green transportation options and participating in carpool matches. With accessibility filters for wheelchair-accessible vehicles, family-friendly options with car seats, and premium services for business travel, RideGo caters to diverse needs while simplifying how you navigate your city, saving time, money, and reducing transportation stress.",
+    "size": 47.5,
+    "reviews": 1055,
+    "ratingAvg": 3.0,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 1150 },
+      { "name": "2 star", "count": 1650 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 5150 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/q3chXbmj/MovieBox.png",
+    "title": "MovieBox",
+    "companyName": "CineWorld",
+    "description": "MovieBox is your ultimate entertainment hub for discovering, tracking, and enjoying movies and TV shows across all streaming platforms. This comprehensive guide aggregates content from Netflix, Hulu, Disney+, HBO Max, and dozens more services, telling you exactly where to watch any title. Create personalized watchlists, rate what you've seen, and get smart recommendations based on your taste and viewing history. Browse curated collections by mood, genre, or theme, and follow specific directors, actors, or writers to never miss their new projects. MovieBox's social features let you see what friends are watching, share reviews, and create group watch parties with synchronized viewing and chat. The app tracks release dates for upcoming movies and notifies you when they become available to stream. Read critic reviews and audience ratings side-by-side, and access trivia, goofs, and behind-the-scenes facts. With offline functionality for your watchlist, parental controls for family viewing, and integration with your calendar to schedule movie nights, MovieBox simplifies entertainment decisions and enhances your viewing experience, ensuring you always have the perfect thing to watch.",
+    "size": 50.0,
+    "reviews": 1092,
+    "ratingAvg": 3.4,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 1160 },
+      { "name": "2 star", "count": 1660 },
+      { "name": "3 star", "count": 2160 },
+      { "name": "4 star", "count": 3160 },
+      { "name": "5 star", "count": 5160 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/Fk4PqfJv/Learnify.png",
+    "title": "Learnify",
+    "companyName": "BrightMind",
+    "description": "Learnify makes skill acquisition accessible and engaging through micro-learning experiences designed for modern lifestyles. Choose from thousands of bite-sized courses across categories like business, technology, creative arts, languages, and personal development. Each lesson is optimized for retention with interactive exercises, quick assessments, and practical projects. The app's adaptive learning path adjusts difficulty based on your performance, ensuring continuous challenge without frustration. Practice speaking new languages with AI-powered conversation partners that provide instant feedback on pronunciation. Code in an integrated development environment with real-time error checking. Learnify's project-based approach lets you build a portfolio of work as you develop skills. Join specialized learning communities for peer support and mentor guidance. Earn verifiable certificates and badges to showcase your achievements on professional networks. The app tracks your learning streaks and motivates you with milestones and rewards. With offline downloads for learning on the go, personalized course recommendations, and collaborative group challenges, Learnify transforms idle moments into productive learning opportunities, helping you systematically develop valuable skills that advance your career and enrich your personal life through consistent, manageable daily progress.",
+    "size": 52.5,
+    "reviews": 1129,
+    "ratingAvg": 3.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 1170 },
+      { "name": "2 star", "count": 1670 },
+      { "name": "3 star", "count": 2170 },
+      { "name": "4 star", "count": 3170 },
+      { "name": "5 star", "count": 5170 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/LdKYjPbn/WorkHive.png",
+    "title": "WorkHive",
+    "companyName": "HiveTech",
+    "description": "WorkHive streamlines team collaboration and project management with an intuitive platform that centralizes communication, tasks, and files. Create dedicated workspaces for different projects with customizable channels for specific topics, departments, or client work. Assign tasks with clear deadlines, priorities, and dependencies, and visualize project timelines with interactive Gantt charts. WorkHive's document collaboration allows multiple team members to edit files simultaneously with version control and commenting. Integrate with popular tools like Google Drive, Slack, and Trello to create a unified workflow. Track time spent on projects with automated timesheets and generate detailed reports on team productivity. Conduct virtual meetings with HD video, screen sharing, and collaborative whiteboards. Make decisions faster with polling features and approval workflows. The smart notification system prioritizes alerts based on relevance to reduce distractions. WorkHive's analytics provide insights into team performance, project health, and resource allocation. With enterprise-grade security, guest access for clients, and mobile optimization for remote teams, WorkHive creates a digital headquarters that keeps distributed teams aligned, engaged, and productive regardless of their physical location.",
+    "size": 55.0,
+    "reviews": 1166,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 1180 },
+      { "name": "2 star", "count": 1680 },
+      { "name": "3 star", "count": 2180 },
+      { "name": "4 star", "count": 3180 },
+      { "name": "5 star", "count": 5180 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/670Q37Fc/Recipe-Master.png",
+    "title": "RecipeMaster",
+    "companyName": "KitchenPro",
+    "description": "RecipeMaster transforms your cooking experience with intelligent features that adapt to your kitchen, schedule, and dietary needs. Access a constantly updated database of millions of recipes with step-by-step guided cooking mode that speaks instructions while keeping your screen active. Use what's in your pantry with the ingredient scanner that suggests recipes based on available items, reducing food waste. Create personalized meal plans that automatically generate shopping lists organized by grocery store sections. Adjust serving sizes with one tap, and the app recalculates all ingredient quantities automatically. Watch integrated video tutorials for tricky techniques from professional chefs. Track nutritional information for every dish and set dietary preferences for gluten-free, vegan, low-carb, or other specific needs. Save family favorites with notes and ratings, and share recipe collections with friends. RecipeMaster's smart timers manage multiple dishes simultaneously, alerting you when each component needs attention. The app learns your taste preferences and cooking habits, suggesting new recipes you'll love while accounting for your available time and skill level. From quick weekday dinners to impressive weekend feasts, RecipeMaster builds your culinary confidence and makes every meal a success.",
+    "size": 57.5,
+    "reviews": 1203,
+    "ratingAvg": 4.6,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 1190 },
+      { "name": "2 star", "count": 1690 },
+      { "name": "3 star", "count": 2190 },
+      { "name": "4 star", "count": 3190 },
+      { "name": "5 star", "count": 5190 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co.com/VctDCM23/DocScan.png",
+    "title": "DocScan",
+    "companyName": "ScanWorks",
+    "description": "DocScan turns your smartphone into a powerful portable scanner and document management system. Capture crystal-clear scans of documents, receipts, whiteboards, and business cards using advanced edge detection and perspective correction technology. The app automatically enhances image quality, removing shadows, correcting colors, and sharpening text for professional results. Organize scans into searchable folders with custom tags and annotations. DocScan's OCR (Optical Character Recognition) technology extracts text from any document, making content searchable and editable. Convert scans to PDF, JPEG, or text files with customizable compression settings. Auto-upload scans to cloud services like Google Drive, Dropbox, or iCloud for secure backup and access across devices. Create multi-page documents by combining multiple scans, and add digital signatures to important paperwork. Set up automated workflows to process recurring document types—like expense reports that extract amounts and dates from receipts. With batch scanning mode, password protection for sensitive documents, and collaboration features for team document review, DocScan eliminates paperwork clutter while providing enterprise-level document digitization that saves time, space, and resources for students, professionals, and home users alike.",
+    "size": 10.0,
+    "reviews": 1240,
+    "ratingAvg": 3.0,
     "downloads": 8,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 4420
-      },
-      {
-        "name": "2 star",
-        "count": 4773
-      },
-      {
-        "name": "3 star",
-        "count": 9351
-      },
-      {
-        "name": "4 star",
-        "count": 24436
-      },
-      {
-        "name": "5 star",
-        "count": 373405
-      }
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 5200 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+14",
-    "title": "Zoom Cloud Meetings",
-    "companyName": "Zoom Video Communications, Inc.",
-    "id": 14,
-    "description": "Zoom Cloud Meetings is a top-rated app by Zoom Video Communications, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 126,
-    "reviews": 257284,
-    "ratingAvg": 4.9,
-    "downloads": 3,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1741
-      },
-      {
-        "name": "2 star",
-        "count": 1860
-      },
-      {
-        "name": "3 star",
-        "count": 9117
-      },
-      {
-        "name": "4 star",
-        "count": 16615
-      },
-      {
-        "name": "5 star",
-        "count": 130031
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+15",
-    "title": "Telegram",
-    "companyName": "Telegram FZ-LLC",
-    "id": 15,
-    "description": "Telegram is a top-rated app by Telegram FZ-LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 144,
-    "reviews": 417391,
-    "ratingAvg": 4.6,
-    "downloads": 1,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 553
-      },
-      {
-        "name": "2 star",
-        "count": 4417
-      },
-      {
-        "name": "3 star",
-        "count": 8578
-      },
-      {
-        "name": "4 star",
-        "count": 36995
-      },
-      {
-        "name": "5 star",
-        "count": 278966
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+16",
-    "title": "Pinterest",
-    "companyName": "Pinterest, Inc.",
-    "id": 16,
-    "description": "Pinterest is a top-rated app by Pinterest, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 122,
-    "reviews": 85964,
-    "ratingAvg": 4.4,
-    "downloads": 1,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3221
-      },
-      {
-        "name": "2 star",
-        "count": 1972
-      },
-      {
-        "name": "3 star",
-        "count": 5753
-      },
-      {
-        "name": "4 star",
-        "count": 34650
-      },
-      {
-        "name": "5 star",
-        "count": 174362
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+17",
-    "title": "Reddit",
-    "companyName": "Reddit, Inc.",
-    "id": 17,
-    "description": "Reddit is a top-rated app by Reddit, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 36,
-    "reviews": 361563,
-    "ratingAvg": 3.8,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3391
-      },
-      {
-        "name": "2 star",
-        "count": 4287
-      },
-      {
-        "name": "3 star",
-        "count": 17098
-      },
-      {
-        "name": "4 star",
-        "count": 28079
-      },
-      {
-        "name": "5 star",
-        "count": 305547
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+18",
-    "title": "Google Drive",
-    "companyName": "Google LLC",
-    "id": 18,
-    "description": "Google Drive is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 58,
-    "reviews": 42020,
-    "ratingAvg": 3.7,
-    "downloads": 2,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1956
-      },
-      {
-        "name": "2 star",
-        "count": 2242
-      },
-      {
-        "name": "3 star",
-        "count": 14120
-      },
-      {
-        "name": "4 star",
-        "count": 11240
-      },
-      {
-        "name": "5 star",
-        "count": 323506
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+19",
-    "title": "Microsoft Outlook",
-    "companyName": "Microsoft Corporation",
-    "id": 19,
-    "description": "Microsoft Outlook is a top-rated app by Microsoft Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 85,
-    "reviews": 354334,
-    "ratingAvg": 4.0,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1723
-      },
-      {
-        "name": "2 star",
-        "count": 320
-      },
-      {
-        "name": "3 star",
-        "count": 14188
-      },
-      {
-        "name": "4 star",
-        "count": 14139
-      },
-      {
-        "name": "5 star",
-        "count": 304648
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+20",
-    "title": "Microsoft Word",
-    "companyName": "Microsoft Corporation",
-    "id": 20,
-    "description": "Microsoft Word is a top-rated app by Microsoft Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 117,
-    "reviews": 36971,
-    "ratingAvg": 4.0,
-    "downloads": 3,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 973
-      },
-      {
-        "name": "2 star",
-        "count": 2581
-      },
-      {
-        "name": "3 star",
-        "count": 7697
-      },
-      {
-        "name": "4 star",
-        "count": 28231
-      },
-      {
-        "name": "5 star",
-        "count": 439954
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+21",
-    "title": "Slack",
-    "companyName": "Slack Technologies, Inc.",
-    "id": 21,
-    "description": "Slack is a top-rated app by Slack Technologies, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 58,
-    "reviews": 488734,
-    "ratingAvg": 3.6,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3816
-      },
-      {
-        "name": "2 star",
-        "count": 304
-      },
-      {
-        "name": "3 star",
-        "count": 11703
-      },
-      {
-        "name": "4 star",
-        "count": 46019
-      },
-      {
-        "name": "5 star",
-        "count": 441186
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+22",
-    "title": "Discord",
-    "companyName": "Discord Inc.",
     "id": 22,
-    "description": "Discord is a top-rated app by Discord Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 140,
-    "reviews": 183371,
-    "ratingAvg": 4.6,
+    "image": "https://i.ibb.co.com/fVKrCQdS/Artify.png",
+    "title": "Artify",
+    "companyName": "CreativeHub",
+    "description": "Artify unleashes your inner artist with a comprehensive digital art studio packed with professional tools and intuitive features. Create stunning artwork using customizable brushes that mimic real media—from watercolor and oil paints to charcoal and airbrushing—with adjustable texture, flow, and blending capabilities. Work with unlimited layers, layer masks, and blending modes for complex compositions. The app supports pressure-sensitive styluses for natural drawing experiences and includes palm rejection for comfortable creation. Access a vast color wheel with advanced palettes, gradients, and color harmony tools. Artify's symmetry tools, perspective guides, and rulers help maintain proportion and accuracy. Transform photos into paintings with AI-powered filters that analyze artistic styles. Learn with built-in tutorials covering fundamental techniques to advanced digital painting methods. Export your work in multiple formats at high resolutions suitable for printing or professional portfolios. Join creative challenges and share your artwork in the Artify community for feedback and inspiration. With regular content updates featuring new brushes, textures, and features, Artify provides an endlessly expanding creative toolkit that makes digital art accessible to beginners while offering the sophistication demanded by professional illustrators, designers, and concept artists.",
+    "size": 12.5,
+    "reviews": 1277,
+    "ratingAvg": 3.4,
     "downloads": 5,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 2518
-      },
-      {
-        "name": "2 star",
-        "count": 1329
-      },
-      {
-        "name": "3 star",
-        "count": 5209
-      },
-      {
-        "name": "4 star",
-        "count": 14452
-      },
-      {
-        "name": "5 star",
-        "count": 242658
-      }
+      { "name": "1 star", "count": 1210 },
+      { "name": "2 star", "count": 1710 },
+      { "name": "3 star", "count": 2210 },
+      { "name": "4 star", "count": 3210 },
+      { "name": "5 star", "count": 5210 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+23",
-    "title": "Khan Academy",
-    "companyName": "Khan Academy",
     "id": 23,
-    "description": "Khan Academy is a top-rated app by Khan Academy.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 103,
-    "reviews": 79758,
-    "ratingAvg": 4.3,
-    "downloads": 1,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3527
-      },
-      {
-        "name": "2 star",
-        "count": 1125
-      },
-      {
-        "name": "3 star",
-        "count": 11661
-      },
-      {
-        "name": "4 star",
-        "count": 18993
-      },
-      {
-        "name": "5 star",
-        "count": 483078
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+24",
-    "title": "Duolingo",
-    "companyName": "Duolingo, Inc.",
-    "id": 24,
-    "description": "Duolingo is a top-rated app by Duolingo, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 53,
-    "reviews": 140088,
-    "ratingAvg": 3.9,
-    "downloads": 2,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2363
-      },
-      {
-        "name": "2 star",
-        "count": 3619
-      },
-      {
-        "name": "3 star",
-        "count": 16540
-      },
-      {
-        "name": "4 star",
-        "count": 28568
-      },
-      {
-        "name": "5 star",
-        "count": 300419
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+25",
-    "title": "Coursera",
-    "companyName": "Coursera Inc.",
-    "id": 25,
-    "description": "Coursera is a top-rated app by Coursera Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 120,
-    "reviews": 315310,
-    "ratingAvg": 4.6,
-    "downloads": 1,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3300
-      },
-      {
-        "name": "2 star",
-        "count": 3451
-      },
-      {
-        "name": "3 star",
-        "count": 5958
-      },
-      {
-        "name": "4 star",
-        "count": 47736
-      },
-      {
-        "name": "5 star",
-        "count": 261575
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+26",
-    "title": "Udemy",
-    "companyName": "Udemy, Inc.",
-    "id": 26,
-    "description": "Udemy is a top-rated app by Udemy, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 38,
-    "reviews": 301388,
-    "ratingAvg": 3.6,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4265
-      },
-      {
-        "name": "2 star",
-        "count": 77
-      },
-      {
-        "name": "3 star",
-        "count": 17274
-      },
-      {
-        "name": "4 star",
-        "count": 23028
-      },
-      {
-        "name": "5 star",
-        "count": 271441
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+27",
-    "title": "Shazam",
-    "companyName": "Apple, Inc.",
-    "id": 27,
-    "description": "Shazam is a top-rated app by Apple, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 119,
-    "reviews": 15692,
-    "ratingAvg": 4.9,
-    "downloads": 6,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3660
-      },
-      {
-        "name": "2 star",
-        "count": 88
-      },
-      {
-        "name": "3 star",
-        "count": 11620
-      },
-      {
-        "name": "4 star",
-        "count": 17910
-      },
-      {
-        "name": "5 star",
-        "count": 496699
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+28",
-    "title": "Google Photos",
-    "companyName": "Google LLC",
-    "id": 28,
-    "description": "Google Photos is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 129,
-    "reviews": 409303,
-    "ratingAvg": 3.6,
-    "downloads": 6,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 513
-      },
-      {
-        "name": "2 star",
-        "count": 858
-      },
-      {
-        "name": "3 star",
-        "count": 5725
-      },
-      {
-        "name": "4 star",
-        "count": 41008
-      },
-      {
-        "name": "5 star",
-        "count": 298791
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+29",
-    "title": "PayPal",
-    "companyName": "PayPal Mobile",
-    "id": 29,
-    "description": "PayPal is a top-rated app by PayPal Mobile.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 36,
-    "reviews": 497023,
-    "ratingAvg": 4.8,
-    "downloads": 1,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4706
-      },
-      {
-        "name": "2 star",
-        "count": 2213
-      },
-      {
-        "name": "3 star",
-        "count": 8227
-      },
-      {
-        "name": "4 star",
-        "count": 11548
-      },
-      {
-        "name": "5 star",
-        "count": 243638
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+30",
-    "title": "Venmo",
-    "companyName": "PayPal, Inc.",
-    "id": 30,
-    "description": "Venmo is a top-rated app by PayPal, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 102,
-    "reviews": 14293,
-    "ratingAvg": 3.7,
-    "downloads": 7,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1851
-      },
-      {
-        "name": "2 star",
-        "count": 2849
-      },
-      {
-        "name": "3 star",
-        "count": 6483
-      },
-      {
-        "name": "4 star",
-        "count": 39422
-      },
-      {
-        "name": "5 star",
-        "count": 97654
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+31",
-    "title": "Cash App",
-    "companyName": "Block, Inc.",
-    "id": 31,
-    "description": "Cash App is a top-rated app by Block, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 44,
-    "reviews": 15156,
-    "ratingAvg": 3.7,
+    "image": "https://i.ibb.co.com/7dk86gv4/Lang-Bridge.png",
+    "title": "LangBridge",
+    "companyName": "LinguaTech",
+    "description": "LangBridge makes language learning an immersive, conversational experience that adapts to your goals and schedule. Practice speaking with AI-powered tutors that provide instant feedback on pronunciation, grammar, and fluency through sophisticated speech recognition. Engage in realistic dialogues simulating everyday situations like ordering food, navigating transportation, or business meetings. The app's adaptive curriculum identifies your weaknesses and strengths, focusing practice where you need it most. Learn vocabulary in context with image associations, example sentences, and native speaker audio. LangBridge's cultural lessons provide essential context about customs, etiquette, and regional variations. Track your progress with detailed metrics and celebrate milestones as you advance through proficiency levels. Join live practice sessions with other learners worldwide for authentic conversation experience. The app works offline for learning on the go, and syncs your progress across devices. With specialized courses for business, travel, academic, and exam preparation, plus a library of authentic media content like news articles and song lyrics, LangBridge creates a comprehensive language acquisition environment that builds practical communication skills and cultural understanding for over 25 languages, making fluency an achievable reality.",
+    "size": 15.0,
+    "reviews": 1314,
+    "ratingAvg": 3.8,
     "downloads": 3,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 4234
-      },
-      {
-        "name": "2 star",
-        "count": 4668
-      },
-      {
-        "name": "3 star",
-        "count": 10954
-      },
-      {
-        "name": "4 star",
-        "count": 29933
-      },
-      {
-        "name": "5 star",
-        "count": 471431
-      }
+      { "name": "1 star", "count": 1220 },
+      { "name": "2 star", "count": 1720 },
+      { "name": "3 star", "count": 2220 },
+      { "name": "4 star", "count": 3220 },
+      { "name": "5 star", "count": 5220 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+32",
-    "title": "Robinhood",
-    "companyName": "Robinhood Markets, Inc.",
-    "id": 32,
-    "description": "Robinhood is a top-rated app by Robinhood Markets, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 42,
-    "reviews": 45608,
-    "ratingAvg": 4.7,
-    "downloads": 6,
+    "id": 24,
+    "image": "https://i.ibb.co.com/ksxt30cr/BookNest.png",
+    "title": "BookNest",
+    "companyName": "BookVerse",
+    "description": "BookNest creates your personal digital library and literary community in one beautifully designed application. Discover your next great read through personalized recommendations based on your reading history, favorite genres, and mood. Access millions of eBooks and audiobooks through partnerships with major publishers and libraries. Track your reading progress with statistics about your pace, preferred genres, and most productive reading times. Join reading challenges, create and share book lists, and participate in virtual book clubs with discussion guides and author Q&As. BookNest's advanced e-reader features include customizable fonts, themes, margin settings, and integrated dictionary and translation tools. Highlight passages and make notes that sync across devices, and export them for study or reference. The app's social features let you see what friends are reading, share reviews, and recommend books to each other. Set reading goals and receive reminders to maintain your habit. With seamless switching between reading and listening, offline access to your library, and integration with Goodreads and StoryGraph, BookNest becomes your comprehensive reading companion that nurtures your literary journey while connecting you with a global community of book lovers who share your passion for stories and knowledge.",
+    "size": 17.5,
+    "reviews": 1351,
+    "ratingAvg": 4.2,
+    "downloads": 10,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 4179
-      },
-      {
-        "name": "2 star",
-        "count": 4476
-      },
-      {
-        "name": "3 star",
-        "count": 16444
-      },
-      {
-        "name": "4 star",
-        "count": 44336
-      },
-      {
-        "name": "5 star",
-        "count": 273729
-      }
+      { "name": "1 star", "count": 1230 },
+      { "name": "2 star", "count": 1730 },
+      { "name": "3 star", "count": 2230 },
+      { "name": "4 star", "count": 3230 },
+      { "name": "5 star", "count": 5230 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+33",
-    "title": "Spotify Kids",
-    "companyName": "Spotify Ltd.",
-    "id": 33,
-    "description": "Spotify Kids is a top-rated app by Spotify Ltd..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 82,
-    "reviews": 168767,
-    "ratingAvg": 3.7,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2874
-      },
-      {
-        "name": "2 star",
-        "count": 4392
-      },
-      {
-        "name": "3 star",
-        "count": 17198
-      },
-      {
-        "name": "4 star",
-        "count": 18794
-      },
-      {
-        "name": "5 star",
-        "count": 267555
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+34",
-    "title": "Google Calendar",
-    "companyName": "Google LLC",
-    "id": 34,
-    "description": "Google Calendar is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 119,
-    "reviews": 275980,
-    "ratingAvg": 4.5,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1390
-      },
-      {
-        "name": "2 star",
-        "count": 2904
-      },
-      {
-        "name": "3 star",
-        "count": 17445
-      },
-      {
-        "name": "4 star",
-        "count": 27910
-      },
-      {
-        "name": "5 star",
-        "count": 382300
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+35",
-    "title": "Adobe Acrobat Reader",
-    "companyName": "Adobe",
-    "id": 35,
-    "description": "Adobe Acrobat Reader is a top-rated app by Adobe.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 47,
-    "reviews": 467590,
-    "ratingAvg": 4.0,
-    "downloads": 2,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4475
-      },
-      {
-        "name": "2 star",
-        "count": 3588
-      },
-      {
-        "name": "3 star",
-        "count": 12149
-      },
-      {
-        "name": "4 star",
-        "count": 11835
-      },
-      {
-        "name": "5 star",
-        "count": 108709
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+36",
-    "title": "Canva",
-    "companyName": "Canva",
-    "id": 36,
-    "description": "Canva is a top-rated app by Canva.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 80,
-    "reviews": 34339,
-    "ratingAvg": 5.0,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1941
-      },
-      {
-        "name": "2 star",
-        "count": 4191
-      },
-      {
-        "name": "3 star",
-        "count": 18502
-      },
-      {
-        "name": "4 star",
-        "count": 19289
-      },
-      {
-        "name": "5 star",
-        "count": 198478
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+37",
-    "title": "Trello",
-    "companyName": "Atlassian",
-    "id": 37,
-    "description": "Trello is a top-rated app by Atlassian.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 150,
-    "reviews": 479507,
-    "ratingAvg": 3.9,
+    "id": 25,
+    "image": "https://i.ibb.co.com/gZT1yX2M/PlanIt.png",
+    "title": "PlanIt",
+    "companyName": "PlanPro",
+    "description": "PlanIt is your intelligent life organization platform that brings harmony to your schedule, goals, and daily routines. The app seamlessly integrates your calendar, tasks, and habits into a unified system that adapts to your priorities. PlanIt's smart scheduling feature automatically finds optimal times for tasks based on your energy levels, existing commitments, and location. Set goals with actionable steps and track progress with motivational milestones. The habit tracker helps build positive routines with reminders, streaks, and analytics on your consistency. PlanIt's focus mode minimizes distractions during important work blocks, while the balance feature ensures you allocate time for relationships, self-care, and hobbies. Generate insightful reports on how you spend your time with recommendations for improvement. Share calendars and collaborate on projects with family members or team members with appropriate privacy controls. The app includes templates for common projects like vacation planning, home renovation, or career development. With natural language input for quick entry, cross-platform synchronization, and integration with popular productivity tools, PlanIt reduces the cognitive load of managing your life, giving you more mental space for what truly matters while ensuring nothing falls through the cracks.",
+    "size": 20.0,
+    "reviews": 1388,
+    "ratingAvg": 4.6,
     "downloads": 7,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 2298
-      },
-      {
-        "name": "2 star",
-        "count": 3775
-      },
-      {
-        "name": "3 star",
-        "count": 18994
-      },
-      {
-        "name": "4 star",
-        "count": 20758
-      },
-      {
-        "name": "5 star",
-        "count": 119813
-      }
+      { "name": "1 star", "count": 1240 },
+      { "name": "2 star", "count": 1740 },
+      { "name": "3 star", "count": 2240 },
+      { "name": "4 star", "count": 3240 },
+      { "name": "5 star", "count": 5240 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+38",
-    "title": "Evernote",
-    "companyName": "Evernote Corporation",
-    "id": 38,
-    "description": "Evernote is a top-rated app by Evernote Corporation.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 47,
-    "reviews": 213843,
-    "ratingAvg": 3.9,
-    "downloads": 6,
+    "id": 26,
+    "image": "https://i.ibb.co.com/rKCFxnNm/SkillUp.png",
+    "title": "SkillUp",
+    "companyName": "SkillForge",
+    "description": "SkillUp provides targeted micro-courses designed to develop specific professional competencies that advance your career. Each skill path consists of bite-sized lessons, practical exercises, and real-world projects that build demonstrable expertise. Choose from high-demand areas like data analysis, digital marketing, project management, coding languages, or leadership development. The app's assessment tools identify your current skill level and knowledge gaps to create a personalized learning journey. Practice new skills in simulated work environments with instant feedback on your performance. Build a professional portfolio of completed projects to showcase to employers. SkillUp's mentorship program connects you with industry experts for guidance and career advice. Participate in collaborative challenges with peers to solve business problems and build teamwork experience. Earn verifiable certificates and digital badges that you can add to LinkedIn and resumes. The app tracks industry trends to ensure course content remains relevant to current job market demands. With offline access, learning reminders, and progress analytics, SkillUp makes professional development an integrated part of your routine, systematically building the capabilities that lead to promotions, career changes, or entrepreneurial success in today's rapidly evolving workplace.",
+    "size": 22.5,
+    "reviews": 1425,
+    "ratingAvg": 3.0,
+    "downloads": 2,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 1034
-      },
-      {
-        "name": "2 star",
-        "count": 3610
-      },
-      {
-        "name": "3 star",
-        "count": 8013
-      },
-      {
-        "name": "4 star",
-        "count": 26732
-      },
-      {
-        "name": "5 star",
-        "count": 259361
-      }
+      { "name": "1 star", "count": 1250 },
+      { "name": "2 star", "count": 1750 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 3250 },
+      { "name": "5 star", "count": 5250 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+39",
-    "title": "Waze",
-    "companyName": "Google LLC",
-    "id": 39,
-    "description": "Waze is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 150,
-    "reviews": 316130,
-    "ratingAvg": 4.8,
+    "id": 27,
+    "image": "https://i.ibb.co.com/nNT18Kpj/Crypto-Watch.png",
+    "title": "CryptoWatch",
+    "companyName": "CryptoEdge",
+    "description": "CryptoWatch delivers comprehensive cryptocurrency market intelligence and portfolio management in one powerful application. Track thousands of cryptocurrencies across multiple exchanges with real-time price alerts, volume analysis, and market cap rankings. Create customized watchlists for different investment strategies and receive notifications for significant price movements, exchange listings, or regulatory news. CryptoWatch's advanced charting tools include technical indicators, drawing capabilities, and pattern recognition to inform your trading decisions. The app aggregates news from hundreds of sources, using sentiment analysis to gauge market mood. Manage your portfolio across different wallets and exchanges with automatic transaction importing or manual entry. Generate tax reports with capital gains calculations specific to your country's regulations. Set up recurring investments and price-target alerts for automated trading strategies. Access educational content about blockchain technology, investment strategies, and security best practices. The security center monitors your connected accounts for suspicious activity and provides cold storage recommendations. With multi-exchange trading capabilities, dark mode for extended viewing, and institutional-grade data accuracy, CryptoWatch serves both novice investors learning the space and experienced traders executing sophisticated strategies in the dynamic world of digital assets.",
+    "size": 25.0,
+    "reviews": 1462,
+    "ratingAvg": 3.4,
     "downloads": 4,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 4824
-      },
-      {
-        "name": "2 star",
-        "count": 4749
-      },
-      {
-        "name": "3 star",
-        "count": 18984
-      },
-      {
-        "name": "4 star",
-        "count": 25376
-      },
-      {
-        "name": "5 star",
-        "count": 231031
-      }
+      { "name": "1 star", "count": 1260 },
+      { "name": "2 star", "count": 1760 },
+      { "name": "3 star", "count": 2260 },
+      { "name": "4 star", "count": 3260 },
+      { "name": "5 star", "count": 5260 }
     ]
   },
   {
-    "image": "https://via.placeholder.com/150?text=App+40",
-    "title": "Google Keep",
-    "companyName": "Google LLC",
-    "id": 40,
-    "description": "Google Keep is a top-rated app by Google LLC.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 54,
-    "reviews": 239823,
-    "ratingAvg": 4.7,
+    "id": 28,
+    "image": "https://i.ibb.co.com/Qj3G8dss/MindCalm.png",
+    "title": "MindCalm",
+    "companyName": "MindWell",
+    "description": "MindCalm is your personalized meditation and mental wellness companion designed to reduce stress and enhance emotional resilience. Begin with an assessment that evaluates your stress levels, sleep quality, and mindfulness experience to create a tailored program. Choose from hundreds of guided meditations ranging from 1-minute quick resets to 30-minute deep sessions, organized by goal—sleep, focus, anxiety, or relationships. The app's biofeedback integration works with your wearable device to suggest meditations based on your real-time heart rate variability. Wind down with sleep stories narrated by soothing voices, accompanied by ambient soundscapes. Track your mood patterns and identify triggers through journaling prompts and reflection exercises. MindCalm's breathing exercises include visual guides and haptic feedback to establish rhythmic patterns that calm your nervous system. Progress through structured courses that build mindfulness skills progressively. Join live group meditation sessions for collective energy and guidance. The app provides mindful reminders throughout your day to pause and reset, plus integration with calendar apps to schedule wellness breaks. With scientifically-backed techniques, progress analytics, and a non-judgmental approach, MindCalm supports your mental health journey, helping you cultivate presence, patience, and perspective in daily life.",
+    "size": 27.5,
+    "reviews": 1499,
+    "ratingAvg": 3.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 1270 },
+      { "name": "2 star", "count": 1770 },
+      { "name": "3 star", "count": 2270 },
+      { "name": "4 star", "count": 3270 },
+      { "name": "5 star", "count": 5270 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://i.ibb.co.com/p6zDG5sT/Evently.png",
+    "title": "Evently",
+    "companyName": "EventPro",
+    "description": "Evently streamlines every aspect of event planning, from intimate gatherings to large conferences, with powerful tools that coordinate details and engage attendees. Create beautiful event pages with customizable templates, integrated ticketing, and secure payment processing. Manage guest lists with RSVP tracking, meal preference collection, and table arrangement tools. Evently's budget planner tracks expenses in real-time with alerts when approaching limits. The integrated vendor management system helps you find, compare, and communicate with venues, caterers, photographers, and other professionals. Create detailed timelines and checklists that ensure nothing is overlooked. Engage attendees before, during, and after your event with announcement feeds, photo sharing, and interactive schedules. During the event, use features like live polling, Q&A sessions, and networking facilitation to enhance participation. Generate post-event analytics on attendance, engagement, and satisfaction. Evently's mobile check-in system speeds registration while capturing important attendee data. With team collaboration features, contract storage, and weather contingency planning, Evently reduces the stress of event coordination while maximizing impact and creating memorable experiences that run smoothly from initial concept to post-event follow-up, whether you're planning professional conferences, weddings, or community fundraisers.",
+    "size": 30.0,
+    "reviews": 1536,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 1280 },
+      { "name": "2 star", "count": 1780 },
+      { "name": "3 star", "count": 2280 },
+      { "name": "4 star", "count": 3280 },
+      { "name": "5 star", "count": 5280 }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://i.ibb.co.com/cXY8Qt4m/Quiz-Arena.png",
+    "title": "QuizArena",
+    "companyName": "QuizMaster",
+    "description": "QuizArena transforms learning and trivia into an engaging social competition that makes knowledge acquisition fun and addictive. Choose from thousands of quiz categories including science, history, pop culture, sports, and specialized topics, or create your own custom quizzes with multimedia questions. Challenge friends to head-to-head matches or join public tournaments with players worldwide. QuizArena's adaptive difficulty adjusts questions based on your performance to maintain the perfect challenge level. Earn experience points, unlock achievements, and climb leaderboards as you demonstrate your expertise. The app's learning mode explains correct answers with detailed information when you make mistakes, turning every game into an educational opportunity. Create private quiz clubs for classrooms, workplaces, or friend groups with custom competitions and discussions. Participate in live trivia events with hosts and real-time scoring. QuizArena's question generator helps educators create assessments quickly, while its analytics identify knowledge gaps for targeted study. With audio rounds, image-based questions, and rapid-fire challenges, the app offers varied gameplay that keeps the experience fresh. Whether you're a casual player looking to pass time or a serious learner reinforcing knowledge, QuizArena makes the pursuit of information social, competitive, and endlessly entertaining.",
+    "size": 32.5,
+    "reviews": 1573,
+    "ratingAvg": 4.6,
     "downloads": 1,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 1860
-      },
-      {
-        "name": "2 star",
-        "count": 1923
-      },
-      {
-        "name": "3 star",
-        "count": 8967
-      },
-      {
-        "name": "4 star",
-        "count": 44629
-      },
-      {
-        "name": "5 star",
-        "count": 215031
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+41",
-    "title": "Paytm",
-    "companyName": "Paytm",
-    "id": 41,
-    "description": "Paytm is a top-rated app by Paytm.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 93,
-    "reviews": 498446,
-    "ratingAvg": 4.6,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4899
-      },
-      {
-        "name": "2 star",
-        "count": 29
-      },
-      {
-        "name": "3 star",
-        "count": 11494
-      },
-      {
-        "name": "4 star",
-        "count": 30645
-      },
-      {
-        "name": "5 star",
-        "count": 374647
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+42",
-    "title": "Flipkart",
-    "companyName": "Flipkart Internet Private Limited",
-    "id": 42,
-    "description": "Flipkart is a top-rated app by Flipkart Internet Private Limited.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 31,
-    "reviews": 206616,
-    "ratingAvg": 4.5,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3597
-      },
-      {
-        "name": "2 star",
-        "count": 3025
-      },
-      {
-        "name": "3 star",
-        "count": 13193
-      },
-      {
-        "name": "4 star",
-        "count": 36070
-      },
-      {
-        "name": "5 star",
-        "count": 56608
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+43",
-    "title": "Zomato",
-    "companyName": "Zomato",
-    "id": 43,
-    "description": "Zomato is a top-rated app by Zomato.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 56,
-    "reviews": 31356,
-    "ratingAvg": 3.7,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4701
-      },
-      {
-        "name": "2 star",
-        "count": 3125
-      },
-      {
-        "name": "3 star",
-        "count": 15648
-      },
-      {
-        "name": "4 star",
-        "count": 43461
-      },
-      {
-        "name": "5 star",
-        "count": 327178
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+44",
-    "title": "Swiggy",
-    "companyName": "Bundl Technologies Private Limited",
-    "id": 44,
-    "description": "Swiggy is a top-rated app by Bundl Technologies Private Limited.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 108,
-    "reviews": 198530,
-    "ratingAvg": 4.1,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 177
-      },
-      {
-        "name": "2 star",
-        "count": 1318
-      },
-      {
-        "name": "3 star",
-        "count": 7182
-      },
-      {
-        "name": "4 star",
-        "count": 22780
-      },
-      {
-        "name": "5 star",
-        "count": 268211
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+45",
-    "title": "Uber",
-    "companyName": "Uber Technologies, Inc.",
-    "id": 45,
-    "description": "Uber is a top-rated app by Uber Technologies, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 83,
-    "reviews": 341113,
-    "ratingAvg": 4.4,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 417
-      },
-      {
-        "name": "2 star",
-        "count": 4325
-      },
-      {
-        "name": "3 star",
-        "count": 14395
-      },
-      {
-        "name": "4 star",
-        "count": 46320
-      },
-      {
-        "name": "5 star",
-        "count": 63775
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+46",
-    "title": "Lyft",
-    "companyName": "Lyft, Inc.",
-    "id": 46,
-    "description": "Lyft is a top-rated app by Lyft, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 131,
-    "reviews": 250498,
-    "ratingAvg": 4.4,
-    "downloads": 2,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1653
-      },
-      {
-        "name": "2 star",
-        "count": 1817
-      },
-      {
-        "name": "3 star",
-        "count": 5023
-      },
-      {
-        "name": "4 star",
-        "count": 46978
-      },
-      {
-        "name": "5 star",
-        "count": 310529
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+47",
-    "title": "Airbnb",
-    "companyName": "Airbnb, Inc.",
-    "id": 47,
-    "description": "Airbnb is a top-rated app by Airbnb, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 73,
-    "reviews": 237194,
-    "ratingAvg": 4.3,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4369
-      },
-      {
-        "name": "2 star",
-        "count": 832
-      },
-      {
-        "name": "3 star",
-        "count": 13429
-      },
-      {
-        "name": "4 star",
-        "count": 15439
-      },
-      {
-        "name": "5 star",
-        "count": 478810
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+48",
-    "title": "Booking.com",
-    "companyName": "Booking.com",
-    "id": 48,
-    "description": "Booking.com is a top-rated app by Booking.com.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 40,
-    "reviews": 425466,
-    "ratingAvg": 4.4,
-    "downloads": 7,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2633
-      },
-      {
-        "name": "2 star",
-        "count": 4256
-      },
-      {
-        "name": "3 star",
-        "count": 7725
-      },
-      {
-        "name": "4 star",
-        "count": 45820
-      },
-      {
-        "name": "5 star",
-        "count": 186171
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+49",
-    "title": "Expedia",
-    "companyName": "Expedia, Inc.",
-    "id": 49,
-    "description": "Expedia is a top-rated app by Expedia, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 122,
-    "reviews": 337580,
-    "ratingAvg": 3.8,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4663
-      },
-      {
-        "name": "2 star",
-        "count": 210
-      },
-      {
-        "name": "3 star",
-        "count": 14531
-      },
-      {
-        "name": "4 star",
-        "count": 49412
-      },
-      {
-        "name": "5 star",
-        "count": 497968
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+50",
-    "title": "Tripadvisor",
-    "companyName": "Tripadvisor, Inc.",
-    "id": 50,
-    "description": "Tripadvisor is a top-rated app by Tripadvisor, Inc..\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 44,
-    "reviews": 109740,
-    "ratingAvg": 4.6,
-    "downloads": 4,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2488
-      },
-      {
-        "name": "2 star",
-        "count": 4872
-      },
-      {
-        "name": "3 star",
-        "count": 17086
-      },
-      {
-        "name": "4 star",
-        "count": 33883
-      },
-      {
-        "name": "5 star",
-        "count": 456345
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+51",
-    "title": "Hotstar",
-    "companyName": "Star India",
-    "id": 51,
-    "description": "Hotstar is a top-rated app by Star India.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 35,
-    "reviews": 456969,
-    "ratingAvg": 4.9,
-    "downloads": 6,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2932
-      },
-      {
-        "name": "2 star",
-        "count": 4007
-      },
-      {
-        "name": "3 star",
-        "count": 6755
-      },
-      {
-        "name": "4 star",
-        "count": 22512
-      },
-      {
-        "name": "5 star",
-        "count": 444165
-      }
-    ]
-  },
-  {
-    "image": "https://via.placeholder.com/150?text=App+52",
-    "title": "Disney+",
-    "companyName": "Disney",
-    "id": 52,
-    "description": "Disney+ is a top-rated app by Disney.\nEnjoy seamless features and user-friendly interface.\nConnect, communicate, and create effortlessly.\nTrusted by millions worldwide.",
-    "size": 85,
-    "reviews": 350699,
-    "ratingAvg": 3.8,
-    "downloads": 5,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2151
-      },
-      {
-        "name": "2 star",
-        "count": 3540
-      },
-      {
-        "name": "3 star",
-        "count": 16014
-      },
-      {
-        "name": "4 star",
-        "count": 46007
-      },
-      {
-        "name": "5 star",
-        "count": 229663
-      }
+      { "name": "1 star", "count": 1290 },
+      { "name": "2 star", "count": 1790 },
+      { "name": "3 star", "count": 2290 },
+      { "name": "4 star", "count": 3290 },
+      { "name": "5 star", "count": 5290 }
     ]
   }
 ]
