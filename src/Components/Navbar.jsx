@@ -5,8 +5,9 @@ import naveLogo from "../assets/logo.png";
 
 const Navbar = () => {
   return (
-   <div className="max-w-[2000px] mx-auto">
-      <div className="navbar bg-base-100 shadow-sm px-4 lg:px-8">
+   <div>
+    <div className="navbar bg-base-100 shadow-sm px-4 lg:px-8">
+      <div className=" max-w-[2300px] mx-auto navbar bg-base-100  px-4 lg:px-8">
         {/* Navbar Start */}
         <div className="navbar-start">
           {/* Mobile Dropdown */}
@@ -70,7 +71,7 @@ const Navbar = () => {
           </div>
 
           {/* Logo Section */}
-          <Link to="/" className="flex items-center gap-3">
+          <Link to="/" className="flex items-center ml-7 gap-3">
             <img
               src={naveLogo}
               alt="HERO.IO Logo"
@@ -119,7 +120,7 @@ const Navbar = () => {
         </div>
 
         {/* Navbar End */}
-        <div className="navbar-end">
+        <div className="navbar-end mr-10">
           <a
             href="https://github.com/plabonmdk/We-Build-Productive-Apps.git"
             target="_blank"
@@ -132,6 +133,7 @@ const Navbar = () => {
         </div>
       </div>
     </div>
+   </div>
   );
 };
 

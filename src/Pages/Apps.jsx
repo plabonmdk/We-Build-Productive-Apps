@@ -11,7 +11,7 @@ const Apps = () => {
         product.title.toLowerCase().includes(term)
       )
     : apps;
-    console.log(searchedProducts);
+  
     
 
   return (

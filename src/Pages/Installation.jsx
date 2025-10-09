@@ -5,8 +5,10 @@ import rating from "../assets/icon-ratings.png";
 
 
 const Installation = () => {
+  
+  const [sortOrder, setSortOrder] = useState("none")
   const [installation, setInstallation] = useState([]);
-  // const [sortOrder, setSortOrder] = useState("none")
+  
 
   useEffect(() => {
     const savedList = JSON.parse(localStorage.getItem("installation"));
@@ -23,22 +25,48 @@ const handleDalete = (id) =>{
  alert("Item has been successfully deleted!");
 }
 
+
+const sortedItem = () => {
+  
+  if(sortOrder === "mb-asc") {
+  const sortAra = [...installation].sort((a, b)=> a.downloads - b.downloads)
+  setInstallation([...sortAra])
+  }else if(sortOrder === "mb-desc"){
+   const sortStor = [...installation].sort((a, b)=> b.downloads - a.downloads)
+   setInstallation([...sortStor])
+  }
+  
+}
+
+
   return (
     <div className="max-w-[2000px] mx-auto  ">
       <div className="text-center my-5">
-        <h1 className="text-4xl font-bold">Your Installed Apps</h1>
+        <div>
+          <h1 className="text-4xl font-bold">Your Installed Apps</h1>
+          
+        </div>
         <p className="my-3 text-lg">
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <h2 className="text-xl font-bold">
+      <div className="flex items-center my-7 justify-between">
+        <h2 className="text-xl font-bold">
         (<span>{installation.length}</span>)Apps Found
       </h2>
+      <label className="form-control w-full max-w-xs">
+        <select className="select select-bordered" value={sortOrder} onClick={sortedItem}  onChange={e=>setSortOrder(e.target.value)}>
+            <option value="none">Sort by Mb</option>
+            <option value="mb-asc">Low-&gt;High</option>
+            <option value="mb-desc">High-&gt;Low</option>
+          </select>
+      </label>
+      </div>
 
       <div className=" flex justify-center items-center ">
         <div className="w-full">
           {installation.map((app) => (
-          <div className="flex   items-center justify-between p-4 border rounded-lg mt-2  w-full  bg-white">
+          <div key={app.id} className="flex   items-center justify-between p-4 border rounded-lg mt-2  w-full  bg-white">
             <div className="flex items-center space-x-4">
               <div className="w-16 h-16  rounded-md">
                 <img src={app.image} alt="" />

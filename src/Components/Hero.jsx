@@ -8,7 +8,7 @@ import Hero2 from "./Hero2";
 
 const Hero = () => {
   return (
-    <section className="max-w-[2000px] mx-auto relative bg-[#f5f5f5] mt-10 md:mt-16">
+    <section className=" relative bg-[#f5f5f5] mt-10 md:mt-16">
       <div className="max-w-7xl mx-auto flex  md:flex-row justify-center items-center px-6 md:px-10 py-10 gap-12">
         
         <div className="flex-1 text-center">
@@ -56,7 +56,7 @@ const Hero = () => {
         <img
           src={mobileImg}
           alt="Mobile App"
-          className="w-[260px] md:w-[700px] drop-shadow-2xl"
+          className="w-[260px] md:w-[1200px] drop-shadow-2xl"
         />
       </div>
       <div >

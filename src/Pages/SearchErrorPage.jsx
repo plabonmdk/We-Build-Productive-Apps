@@ -1,8 +1,8 @@
 import React from 'react';
-import error from "../assets/error-404.png"
+import error from "../assets/App-Error.png"
 import { useNavigate } from 'react-router';
 
-const ErrorPage = () => {
+const SearchErrorPage = () => {
     const navigate = useNavigate();
     return (
         
@@ -24,7 +24,7 @@ const ErrorPage = () => {
 
         {/* Description */}
         <p className="text-lg text-gray-500 mb-8">
-          The page you’re looking for doesn’t exist or has been moved.
+          The App you are requesting is not found on our system.  please try another apps
         </p>
 
         {/* Go Back Button */}
@@ -39,4 +39,4 @@ const ErrorPage = () => {
     );
 };
 
-export default ErrorPage;
+export default SearchErrorPage;

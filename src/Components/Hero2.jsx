@@ -3,7 +3,7 @@ import React from 'react';
 const Hero2 = () => {
     return (
          <section className="bg-gradient-to-r from-[#5B2EFF] via-[#7A42F4] to-[#B366FF] text-white py-16 px-6 md:px-16 rounded-3xl shadow-lg ">
-      <div className="max-w-7xl mx-auto text-center">
+      <div className=" text-center">
         {/* Title */}
         <h1 className="text-3xl md:text-5xl font-bold mb-12">
           Trusted by Millions, Built for You

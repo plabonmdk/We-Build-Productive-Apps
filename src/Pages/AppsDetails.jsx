@@ -53,7 +53,7 @@ const AppsDetails = () => {
 
   return (
     <>
-     <div className="max-w-[1700px] mx-auto bg-white shadow-lg hover:shadow-2xl rounded-2xl p-6 sm:p-10 flex flex-col lg:flex-row items-center lg:items-start gap-10 transition-all duration-300">
+     <div className="max-w-[2000px] mx-auto bg-white shadow-lg hover:shadow-2xl rounded-2xl p-6 sm:p-10 flex flex-col lg:flex-row items-center lg:items-start gap-10 transition-all duration-300">
   {/* App Image */}
   <div className="flex-shrink-0 w-full sm:w-[300px] flex justify-center">
     <img
@@ -133,12 +133,17 @@ const AppsDetails = () => {
         )}
       </button>
 
-      {/* Placeholder for Chart */}
+      {/*  for Chart */}
       
     </div>
   </div>
 </div>
 <RatingChart key={app.id} rating={app.ratings}></RatingChart>
+
+<div className="w-[2000px] bg-gray-100 mx-auto">
+ <h1 className="my-5 text-2xl font-bold">Description</h1>
+ <p className="text-xl ">{app.description}</p>
+</div>
 </>
     
   );

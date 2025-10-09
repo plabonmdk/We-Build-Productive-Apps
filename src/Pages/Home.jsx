@@ -2,12 +2,13 @@ import React from "react";
 import { Link, useLoaderData } from "react-router";
 import ProductCard from "../Components/ProductCard";
 import Hero from "../Components/Hero";
+import LoadingSpinner from "../Components/LoadingSpinner";
 
 
 
 const Home = () => {
   const products = useLoaderData();
-//   const [apps, loading, error] = useProducts()
+
 
   
   
@@ -17,7 +18,8 @@ const Home = () => {
     <>
     <Hero></Hero>
     
-    <div className="max-w-[1800px] mx-auto">
+    
+    <div className="max-w-[2000px] mx-auto">
       {/* <Hero></Hero> */}
       <div className="text-center my-5">
         <h1 className="text-4xl font-bold">Trending Apps</h1>
