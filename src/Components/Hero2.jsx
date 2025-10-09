@@ -4,14 +4,14 @@ const Hero2 = () => {
     return (
          <section className="bg-gradient-to-r from-[#5B2EFF] via-[#7A42F4] to-[#B366FF] text-white py-16 px-6 md:px-16 rounded-3xl shadow-lg ">
       <div className=" text-center">
-        {/* Title */}
+        
         <h1 className="text-3xl md:text-5xl font-bold mb-12">
           Trusted by Millions, Built for You
         </h1>
 
-        {/* Stats */}
+        
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
-          {/* Total Downloads */}
+         
           <div className="bg-white/10 backdrop-blur-sm p-8 rounded-2xl hover:bg-white/20 transition duration-300">
             <h2 className="text-lg font-semibold mb-2">Total Downloads</h2>
             <h1 className="text-4xl md:text-5xl font-bold">29.6M</h1>
@@ -21,7 +21,7 @@ const Hero2 = () => {
             </p>
           </div>
 
-          {/* Total Reviews */}
+          
           <div className="bg-white/10 backdrop-blur-sm p-8 rounded-2xl hover:bg-white/20 transition duration-300">
             <h2 className="text-lg font-semibold mb-2">Total Reviews</h2>
             <h1 className="text-4xl md:text-5xl font-bold">906K</h1>
@@ -31,7 +31,7 @@ const Hero2 = () => {
             </p>
           </div>
 
-          {/* Active Apps */}
+          
           <div className="bg-white/10 backdrop-blur-sm p-8 rounded-2xl hover:bg-white/20 transition duration-300">
             <h2 className="text-lg font-semibold mb-2">Active Apps</h2>
             <h1 className="text-4xl md:text-5xl font-bold">132+</h1>

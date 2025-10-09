@@ -8,9 +8,9 @@ const Navbar = () => {
    <div>
     <div className="navbar bg-base-100 shadow-sm px-4 lg:px-8">
       <div className=" max-w-[2300px] mx-auto navbar bg-base-100  px-4 lg:px-8">
-        {/* Navbar Start */}
+        
         <div className="navbar-start">
-          {/* Mobile Dropdown */}
+          
           <div className="dropdown">
             <button
               tabIndex={0}
@@ -70,7 +70,7 @@ const Navbar = () => {
             </ul>
           </div>
 
-          {/* Logo Section */}
+          
           <Link to="/" className="flex items-center ml-7 gap-3">
             <img
               src={naveLogo}
@@ -83,7 +83,7 @@ const Navbar = () => {
           </Link>
         </div>
 
-        {/* Navbar Center */}
+        
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 text-lg font-medium gap-10">
             <li>
@@ -119,7 +119,7 @@ const Navbar = () => {
           </ul>
         </div>
 
-        {/* Navbar End */}
+        
         <div className="navbar-end mr-10">
           <a
             href="https://github.com/plabonmdk/We-Build-Productive-Apps.git"

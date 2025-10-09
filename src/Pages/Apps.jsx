@@ -4,13 +4,15 @@ import useProducts from "../Hooks/useProdducts";
 import notImage from "../assets/App-Error.png";
 import LoadingSpinner from "../Components/LoadingSpinner";
 import { Link } from "react-router";
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 const Apps = () => {
   const { apps } = useProducts();
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
 
-  // Stop loading when apps are loaded
+  
   useEffect(() => {
     if (apps.length > 0) {
       setLoading(false);
@@ -23,6 +25,13 @@ const Apps = () => {
         product.title.toLowerCase().includes(term)
       )
     : apps;
+
+  
+  useEffect(() => {
+    if (!loading && term && searchedProducts.length === 0) {
+      toast.info("No apps found for your search!");
+    }
+  }, [term, searchedProducts, loading]);
 
   return (
     <div className="max-w-[2000px] mx-auto">
@@ -96,6 +105,17 @@ const Apps = () => {
           ))}
         </div>
       )}
+
+      
+      <ToastContainer
+        position="top-right"
+        autoClose={3000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        pauseOnHover
+        draggable
+      />
     </div>
   );
 };

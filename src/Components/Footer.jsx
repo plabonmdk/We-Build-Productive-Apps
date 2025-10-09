@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-base-300 text-base-content py-12 border-t border-gray-300">
       <div className="max-w-[2200px]  text-center mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 ">
         
-        {/* Brand / About */}
+       
         <div>
           <div className="flex items-center justify-center sm:justify-start gap-2">
             <img className="w-10" src={logo} alt="Hero.IO Logo" />
@@ -21,7 +21,7 @@ const Footer = () => {
           </p>
         </div>
 
-        {/* Company Section */}
+        
         <div>
           <h6 className="footer-title text-lg font-semibold mb-3">Company</h6>
           <ul className="space-y-2 text-gray-700">
@@ -48,7 +48,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Social Links */}
+        
         <div className='flex flex-col items-center text-center'>
           <h6 className="footer-title text-lg font-semibold mb-3">Connect With Me</h6>
           <div className="flex justify-center  sm:justify-start space-x-5 mt-2">
@@ -88,7 +88,7 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* Divider */}
+      
       <div className="mt-10 border-t border-gray-400 pt-6 text-center">
         <p className="text-sm text-gray-600">
           © {new Date().getFullYear()}{" "}

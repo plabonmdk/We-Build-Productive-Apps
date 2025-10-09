@@ -20,7 +20,7 @@ const Home = () => {
     
     
     <div className="max-w-[2000px] mx-auto">
-      {/* <Hero></Hero> */}
+      
       <div className="text-center my-5">
         <h1 className="text-4xl font-bold">Trending Apps</h1>
         <p className="my-3 text-lg">
