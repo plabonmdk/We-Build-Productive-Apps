@@ -1,6 +1,8 @@
 import React from "react";
 import { Link, useLoaderData } from "react-router";
 import ProductCard from "../Components/ProductCard";
+import Hero from "../Components/Hero";
+
 
 
 const Home = () => {
@@ -12,7 +14,11 @@ const Home = () => {
   const featuredProducts = products.slice(0, 8);
 
   return (
-    <div className="max-w-[2000px] mx-auto">
+    <>
+    <Hero></Hero>
+    
+    <div className="max-w-[1800px] mx-auto">
+      {/* <Hero></Hero> */}
       <div className="text-center my-5">
         <h1 className="text-4xl font-bold">Trending Apps</h1>
         <p className="my-3 text-lg">
@@ -35,6 +41,7 @@ const Home = () => {
         </Link>
       </div>
     </div>
+    </>
   );
 };
 

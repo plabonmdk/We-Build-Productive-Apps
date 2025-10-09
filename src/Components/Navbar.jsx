@@ -5,73 +5,130 @@ import naveLogo from "../assets/logo.png";
 
 const Navbar = () => {
   return (
-    <div className="max-w-[2000px] mx-auto">
-      <div className="navbar bg-base-100 shadow-sm ">
+   <div className="max-w-[2000px] mx-auto">
+      <div className="navbar bg-base-100 shadow-sm px-4 lg:px-8">
+        {/* Navbar Start */}
         <div className="navbar-start">
+          {/* Mobile Dropdown */}
           <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+            <button
+              tabIndex={0}
+              className="btn btn-ghost lg:hidden"
+              aria-label="menu"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
+                className="h-6 w-6"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
               >
-                {" "}
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
                   strokeWidth="2"
-                  d="M4 6h16M4 12h8m-8 6h16"
-                />{" "}
+                  d="M4 6h16M4 12h16m-8 6h8"
+                />
               </svg>
-            </div>
+            </button>
+
             <ul
               tabIndex={0}
-              className="menu gap-3 menu-sm dropdown-content text-2xl bg-base-100 rounded-box  mt-1  p-1 shadow"
+              className="menu menu-sm dropdown-content mt-3 z-[1] p-4 shadow bg-base-100 rounded-box w-52 text-lg"
             >
-              <li className="hover:text-[#632EE3]">
-                {" "}
-                <NavLink to="/">Home</NavLink>
+              <li>
+                <NavLink
+                  to="/"
+                  className={({ isActive }) =>
+                    isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                  }
+                >
+                  Home
+                </NavLink>
               </li>
-              <li className="hover:text-[#632EE3]">
-                {" "}
-                <NavLink to="/Apps">Apps</NavLink>
+              <li>
+                <NavLink
+                  to="/Apps"
+                  className={({ isActive }) =>
+                    isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                  }
+                >
+                  Apps
+                </NavLink>
               </li>
-              <li className="hover:text-[#632EE3]">
-                {" "}
-                <NavLink to="/installation">Installation</NavLink>
+              <li>
+                <NavLink
+                  to="/installation"
+                  className={({ isActive }) =>
+                    isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                  }
+                >
+                  Installation
+                </NavLink>
               </li>
             </ul>
           </div>
-          <div className="flex items-center ">
-            <img className="h-[50px] w-[50px]" src={naveLogo} alt="" />
-            <Link to="/" className="ml-5 text-[#632EE3] text-xl">
+
+          {/* Logo Section */}
+          <Link to="/" className="flex items-center gap-3">
+            <img
+              src={naveLogo}
+              alt="HERO.IO Logo"
+              className="h-[48px] w-[48px] object-contain"
+            />
+            <span className="text-2xl font-extrabold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
               HERO.IO
-            </Link>
-          </div>
+            </span>
+          </Link>
         </div>
+
+        {/* Navbar Center */}
         <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1 text-xl gap-10 ">
-            <li className="hover:text-[#632EE3]">
-              {" "}
-              <NavLink to="/">Home</NavLink>
+          <ul className="menu menu-horizontal px-1 text-lg font-medium gap-10">
+            <li>
+              <NavLink
+                to="/"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                }
+              >
+                Home
+              </NavLink>
             </li>
-            <li className="hover:text-[#632EE3]">
-              {" "}
-              <NavLink to="/Apps">Apps</NavLink>
+            <li>
+              <NavLink
+                to="/Apps"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                }
+              >
+                Apps
+              </NavLink>
             </li>
-            <li className="hover:text-[#632EE3]">
-              {" "}
-              <NavLink to="/installation">Installation</NavLink>
+            <li>
+              <NavLink
+                to="/installation"
+                className={({ isActive }) =>
+                  isActive ? "text-[#632EE3] font-semibold" : "hover:text-[#632EE3]"
+                }
+              >
+                Installation
+              </NavLink>
             </li>
           </ul>
         </div>
+
+        {/* Navbar End */}
         <div className="navbar-end">
-          <NavLink to="https://github.com/plabonmdk/We-Build-Productive-Apps.git" className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-4 py-2 rounded-lg flex items-center gap-2">
-            <FaGithub />
+          <a
+            href="https://github.com/plabonmdk/We-Build-Productive-Apps.git"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white px-5 py-2.5 rounded-lg flex items-center gap-2 font-medium transition-all hover:shadow-lg hover:scale-105"
+          >
+            <FaGithub size={18} />
             Contribute
-          </NavLink>
+          </a>
         </div>
       </div>
     </div>
