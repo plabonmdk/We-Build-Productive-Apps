@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useLoaderData } from "react-router";
 import ProductCard from "../Components/ProductCard";
 import Hero from "../Components/Hero";
-import LoadingSpinner from "../Components/LoadingSpinner";
+
 
 
 

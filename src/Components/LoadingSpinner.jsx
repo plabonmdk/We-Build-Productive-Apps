@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Loader = () => {
+const LoadingSpinner = () => {
   return (
     <StyledWrapper>
       <div id="page">
@@ -104,4 +104,4 @@ const StyledWrapper = styled.div`
   }
   /* Improving visualization in light mode */`;
 
-export default Loader;
+export default LoadingSpinner;

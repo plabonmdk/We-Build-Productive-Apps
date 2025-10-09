@@ -43,7 +43,7 @@ const sortedItem = () => {
     <div className="max-w-[2000px] mx-auto  ">
       <div className="text-center my-5">
         <div>
-          <h1 className="text-4xl font-bold">Your Installed Apps</h1>
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">Your Installed Apps</h1>
           
         </div>
         <p className="my-3 text-lg">
