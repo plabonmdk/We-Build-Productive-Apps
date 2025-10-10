@@ -7,15 +7,21 @@ const useProducts = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    setLoading(true)
+    setLoading(true);
+
     axios("../Data.json")
       .then((data) => {
-        setApps(data.data);
-        setLoading(false);
+        // Timer দিয়ে loading টা একটু দেরিতে বন্ধ করা হচ্ছে
+        setTimeout(() => {
+          setApps(data.data);
+          setLoading(false);
+        }, 1500); // 1.5 seconds delay (চাওলে পরিবর্তন করতে পারো)
       })
       .catch((err) => {
-        setError(err);
-        setLoading(false);
+        setTimeout(() => {
+          setError(err);
+          setLoading(false);
+        }, 1500);
       });
   }, []);
 

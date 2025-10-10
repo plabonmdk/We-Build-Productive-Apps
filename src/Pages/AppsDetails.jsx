@@ -5,32 +5,26 @@ import downloadsPng from "../assets/icon-downloads.png";
 import rating from "../assets/icon-ratings.png";
 import review from "../assets/icon-review.png";
 import RatingChart from "./RatingChart";
-import { toast, ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import Swal from "sweetalert2"; // ✅ import SweetAlert2
+import "sweetalert2/dist/sweetalert2.min.css"; // optional: for consistent styling
+import LoadingSpinner from "../Components/LoadingSpinner"
 
 const AppsDetails = () => {
   const { id } = useParams();
   const { apps, loading } = useProducts();
   const app = apps?.find((a) => String(a.id) === id);
 
-  const {
-    companyName,
-    title,
-    reviews,
-    downloads,
-    image,
-    size,
-    ratingAvg,
-  } = app || {};
-
+  const { companyName, title, reviews, downloads, image, size, ratingAvg } = app || {};
   const [isInstalled, setIsInstalled] = useState(false);
 
+  // ✅ check if app is already installed
   useEffect(() => {
     const existingList = JSON.parse(localStorage.getItem("installation")) || [];
     const alreadyInstalled = existingList.some((a) => a.id === app?.id);
     setIsInstalled(alreadyInstalled);
   }, [app]);
 
+  // ✅ SweetAlert2 notifications
   const handleAddToInstallation = () => {
     if (!app) return;
 
@@ -39,10 +33,12 @@ const AppsDetails = () => {
 
     if (isDuplicate) {
       setIsInstalled(true);
-      toast.warning(" This app is already installed.", {
-        position: "top-right",
-        autoClose: 3000,
-        theme: "colored",
+      Swal.fire({
+        icon: "warning",
+        title: "Already Installed!",
+        text: "This app is already installed on your device.",
+        confirmButtonColor: "#3085d6",
+        confirmButtonText: "OK",
       });
       return;
     }
@@ -50,20 +46,23 @@ const AppsDetails = () => {
     const updatedList = [...existingList, app];
     localStorage.setItem("installation", JSON.stringify(updatedList));
     setIsInstalled(true);
-    toast.success(" App installed successfully!", {
-      position: "top-right",
-      autoClose: 3000,
-      theme: "colored",
+
+    Swal.fire({
+      icon: "success",
+      title: "Installed Successfully!",
+      text: `${app.title} has been installed.`,
+      showConfirmButton: false,
+      timer: 2000,
+      timerProgressBar: true,
     });
   };
 
-  if (loading) return <p>Loading.........</p>;
-  if (!app) return <p>App not found </p>;
+  if (loading) return <LoadingSpinner></LoadingSpinner> ;
+  if (!app) return <p>App not found</p>;
 
   return (
     <>
       <div className="max-w-[2000px] mx-auto bg-white shadow-lg hover:shadow-2xl rounded-2xl p-6 sm:p-10 flex flex-col lg:flex-row items-center lg:items-start gap-10 transition-all duration-300">
-        
         <div className="flex-shrink-0 w-full sm:w-[300px] flex justify-center">
           <img
             src={image}
@@ -72,13 +71,9 @@ const AppsDetails = () => {
           />
         </div>
 
-        
         <div className="flex-1 w-full text-center lg:text-left flex flex-col gap-6">
-         
           <div>
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight">
-              {title}
-            </h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight">{title}</h2>
             <p className="text-gray-500 text-base sm:text-lg mt-2">
               Developed by{" "}
               <span className="text-blue-600 hover:underline font-semibold cursor-pointer">
@@ -87,43 +82,34 @@ const AppsDetails = () => {
             </p>
           </div>
 
-          
+          {/* Info Cards */}
           <div className="flex flex-wrap justify-center lg:justify-start gap-6 sm:gap-10 mt-4">
-            
             <div className="flex items-center gap-3">
               <img src={downloadsPng} alt="Downloads" className="w-7 h-7" />
               <div>
                 <p className="text-gray-400 text-sm sm:text-base">Downloads</p>
-                <p className="text-gray-900 font-semibold text-lg sm:text-xl">
-                  {downloads}M
-                </p>
+                <p className="text-gray-900 font-semibold text-lg sm:text-xl">{downloads}M</p>
               </div>
             </div>
 
-            
             <div className="flex items-center gap-3">
               <img src={rating} alt="Ratings" className="w-7 h-7" />
               <div>
                 <p className="text-gray-400 text-sm sm:text-base">Average Rating</p>
-                <p className="text-gray-900 font-semibold text-lg sm:text-xl">
-                  {ratingAvg}
-                </p>
+                <p className="text-gray-900 font-semibold text-lg sm:text-xl">{ratingAvg}</p>
               </div>
             </div>
 
-            
             <div className="flex items-center gap-3">
               <img src={review} alt="Reviews" className="w-7 h-7" />
               <div>
                 <p className="text-gray-400 text-sm sm:text-base">Total Reviews</p>
-                <p className="text-gray-900 font-semibold text-lg sm:text-xl">
-                  {reviews}K
-                </p>
+                <p className="text-gray-900 font-semibold text-lg sm:text-xl">{reviews}K</p>
               </div>
             </div>
           </div>
 
-          
+          {/* Install Button */}
           <div className="mt-6 flex flex-col lg:flex-row lg:items-center gap-6">
             <button
               onClick={handleAddToInstallation}
@@ -145,15 +131,12 @@ const AppsDetails = () => {
         </div>
       </div>
 
-      <RatingChart key={app.id} rating={app.ratings}></RatingChart>
+      <RatingChart key={app.id} rating={app.ratings} />
 
-      <div className="w-[2000px] bg-gray-100 mx-auto">
+      <div className="w-[2000px] bg-gray-100 my-5 mx-auto">
         <h1 className="my-5 text-2xl font-bold">Description</h1>
         <p className="text-xl">{app.description}</p>
       </div>
-
-      
-      <ToastContainer />
     </>
   );
 };

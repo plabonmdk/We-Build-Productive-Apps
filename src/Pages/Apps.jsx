@@ -4,15 +4,13 @@ import useProducts from "../Hooks/useProdducts";
 import notImage from "../assets/App-Error.png";
 import LoadingSpinner from "../Components/LoadingSpinner";
 import { Link } from "react-router";
-import { ToastContainer, toast } from "react-toastify";
-import 'react-toastify/dist/ReactToastify.css';
+import Swal from "sweetalert2"; // ✅ import SweetAlert2
 
 const Apps = () => {
   const { apps } = useProducts();
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
 
-  
   useEffect(() => {
     if (apps.length > 0) {
       setLoading(false);
@@ -21,15 +19,18 @@ const Apps = () => {
 
   const term = search.trim().toLowerCase();
   const searchedProducts = term
-    ? apps.filter((product) =>
-        product.title.toLowerCase().includes(term)
-      )
+    ? apps.filter((product) => product.title.toLowerCase().includes(term))
     : apps;
 
-  
+  // ✅ SweetAlert replaces toastify notification
   useEffect(() => {
     if (!loading && term && searchedProducts.length === 0) {
-      toast.info("No apps found for your search!");
+      Swal.fire({
+        icon: "info",
+        title: "No Apps Found!",
+        text: "No apps match your search. Try another name.",
+        confirmButtonColor: "#7C3AED", // purple button
+      });
     }
   }, [term, searchedProducts, loading]);
 
@@ -83,10 +84,10 @@ const Apps = () => {
         <div className="flex flex-col items-center justify-center py-20 text-center">
           <img src={notImage} alt="No Result" className="w-60 md:w-80 mb-5" />
           <h1 className="text-gray-700 font-bold text-2xl md:text-4xl mb-3">
-            OPPS!! APP NOT FOUND
+            Oops!! App Not Found
           </h1>
           <p className="text-gray-500 text-sm md:text-base max-w-md">
-            The App you are requesting is not found on our system. Please try
+            The app you are requesting is not found on our system. Please try
             searching for another app.
           </p>
           <div className="mt-8">
@@ -105,17 +106,6 @@ const Apps = () => {
           ))}
         </div>
       )}
-
-      
-      <ToastContainer
-        position="top-right"
-        autoClose={3000}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        pauseOnHover
-        draggable
-      />
     </div>
   );
 };
