@@ -2,7 +2,7 @@
 import { FaStarHalfAlt } from "react-icons/fa";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { Link,  } from "react-router";
-import LoadingSpinner from "./LoadingSpinner"; // ✅ নিশ্চিত হও যে path ঠিক আছে
+
 
 const ProductCard = ({ product }) => {
   

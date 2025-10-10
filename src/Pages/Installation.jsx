@@ -9,7 +9,7 @@ import useProducts from "../Hooks/useProdducts";
 import LoadingSpinner from "../Components/LoadingSpinner";
 
 const Installation = () => {
-  const {apps, loading, error} = useProducts();
+  const { loading} = useProducts();
   const [sortOrder, setSortOrder] = useState("none");
   const [installation, setInstallation] = useState([]);
 
