@@ -3,7 +3,8 @@ import styled from 'styled-components';
 
 const LoadingSpinner = () => {
   return (
-    <StyledWrapper>
+    <div className='fixed top-0 left-0 w-full min-h-screen flex justify-center items-center'>
+      <StyledWrapper>
       <div id="page">
         <div id="container">
           <div id="ring" />
@@ -14,6 +15,7 @@ const LoadingSpinner = () => {
         </div>
       </div>
     </StyledWrapper>
+    </div>
   );
 }
 
