@@ -1,64 +1,77 @@
-import React from 'react';
+import React from "react";
 import { FaFacebook, FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
-import logo from "../assets/logo.png"
+import logo from "../assets/logo.png";
+
 const Footer = () => {
   return (
-  
     <footer className="bg-base-300 text-base-content py-12 border-t border-gray-300">
-      <div className="max-w-[2200px]  text-center mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 ">
-        
-       
-        <div>
-          <div className="flex items-center justify-center sm:justify-start gap-2">
-            <img className="w-10" src={logo} alt="Hero.IO Logo" />
-            <h6 className="footer-title text-lg font-semibold mb-3">HERO.IO</h6>
+      {/* Footer Grid */}
+      <div className="max-w-[1900px] mx-auto px-6 sm:px-10 md:px-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-12">
+        {/* ---- Left Section ---- */}
+        <div className="text-center sm:text-left">
+          <div className="flex flex-col sm:flex-row items-center sm:items-start sm:justify-start gap-3">
+            <img className="w-12" src={logo} alt="Hero.IO Logo" />
+            <h6 className="text-xl font-bold text-gray-800 mt-2 sm:mt-0">
+              HERO.IO
+            </h6>
           </div>
-          <p className="text-gray-700 text-justify sm:text-left mt-2">
-            <span className="font-semibold">Hero Apps</span> serves as your comprehensive platform 
-            to find, download, and experience top mobile applications. We provide secure, current, 
-            and popular apps for both Android and iOS — everything conveniently located in one spot. 
-            Uncover smarter applications, more quickly.
+          <p className="text-gray-700 mt-4 leading-relaxed">
+            <span className="font-semibold">Hero Apps</span> serves as your
+            comprehensive platform to find, download, and experience top mobile
+            applications. We provide secure, current, and popular apps for both
+            Android and iOS — everything conveniently located in one spot.
           </p>
         </div>
 
-        
-        <div>
-          <h6 className="footer-title text-lg font-semibold mb-3">Company</h6>
-          <ul className="space-y-2 text-gray-700">
+        {/* ---- Middle Section ---- */}
+        <div className="text-center sm:text-left">
+          <h6 className="text-xl font-semibold mb-4 text-gray-800">Company</h6>
+          <ul className="space-y-3 text-gray-700">
             <li>
-              <a href="/about" className="link link-hover hover:text-blue-600 transition-colors">
+              <a
+                href="/about"
+                className="hover:text-blue-600 transition-colors"
+              >
                 About Us
               </a>
             </li>
             <li>
-              <a href="/contact" className="link link-hover hover:text-blue-600 transition-colors">
+              <a
+                href="/contact"
+                className="hover:text-blue-600 transition-colors"
+              >
                 Contact
               </a>
             </li>
             <li>
-              <a href="/jobs" className="link link-hover hover:text-blue-600 transition-colors">
+              <a href="/jobs" className="hover:text-blue-600 transition-colors">
                 Jobs
               </a>
             </li>
             <li>
-              <a href="/press-kit" className="link link-hover hover:text-blue-600 transition-colors">
+              <a
+                href="/press-kit"
+                className="hover:text-blue-600 transition-colors"
+              >
                 Press Kit
               </a>
             </li>
           </ul>
         </div>
 
-        
-        <div className='flex flex-col items-center text-center'>
-          <h6 className="footer-title text-lg font-semibold mb-3">Connect With Me</h6>
-          <div className="flex justify-center  sm:justify-start space-x-5 mt-2">
+        {/* ---- Right Section ---- */}
+        <div className="text-center">
+          <h6 className="text-xl font-semibold mb-4 text-gray-800">
+            Connect With Me
+          </h6>
+          <div className="flex justify-center space-x-6">
             <a
               href="https://www.facebook.com/plabon.plabon.549675/likes"
               target="_blank"
               rel="noreferrer"
               className="hover:text-blue-600 transition-colors duration-300"
             >
-              <FaFacebook size={24} />
+              <FaFacebook size={26} />
             </a>
             <a
               href="https://x.com/plabon90046/likes"
@@ -66,7 +79,7 @@ const Footer = () => {
               rel="noreferrer"
               className="hover:text-sky-500 transition-colors duration-300"
             >
-              <FaTwitter size={24} />
+              <FaTwitter size={26} />
             </a>
             <a
               href="https://www.linkedin.com/in/plabon-chandro-modak-411543383/"
@@ -74,7 +87,7 @@ const Footer = () => {
               rel="noreferrer"
               className="hover:text-blue-700 transition-colors duration-300"
             >
-              <FaLinkedin size={24} />
+              <FaLinkedin size={26} />
             </a>
             <a
               href="https://github.com/plabonmdk/We-Build-Productive-Apps"
@@ -82,21 +95,20 @@ const Footer = () => {
               rel="noreferrer"
               className="hover:text-gray-800 transition-colors duration-300"
             >
-              <FaGithub size={24} />
+              <FaGithub size={26} />
             </a>
           </div>
         </div>
       </div>
 
-      
-      <div className="mt-10 border-t border-gray-400 pt-6 text-center">
+      {/* ---- Bottom Border ---- */}
+      <div className="mt-10 border-t border-gray-400 pt-6 text-center px-4">
         <p className="text-sm text-gray-600">
           © {new Date().getFullYear()}{" "}
           <span className="font-semibold">PLABON CHANDRO MODAK</span>. All rights reserved.
         </p>
       </div>
     </footer>
-
   );
 };
 

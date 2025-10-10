@@ -64,7 +64,7 @@ const Installation = () => {
   return (
    <div>
     {
-      loading?<LoadingSpinner></LoadingSpinner>: <div className="max-w-[2000px] mx-auto px-4 md:px-8">
+      loading?<LoadingSpinner></LoadingSpinner>: <div className="max-w-[1770px] mx-auto px-4 md:px-8">
       {/* ✅ Header */}
       <div className="text-center my-5">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">

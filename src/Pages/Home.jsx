@@ -19,7 +19,7 @@ const Home = () => {
     <Hero></Hero>
     
     
-    <div className="max-w-[2000px] mx-auto">
+    <div className="max-w-[1600px] mx-auto">
       
       <div className="text-center my-5">
         <h1 className="text-4xl font-bold">Trending Apps</h1>
