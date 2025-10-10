@@ -4,14 +4,13 @@ import useProducts from "../Hooks/useProdducts";
 import notImage from "../assets/App-Error.png";
 import LoadingSpinner from "../Components/LoadingSpinner";
 import { Link } from "react-router";
-import Swal from "sweetalert2"; 
 
 const Apps = () => {
   const { apps } = useProducts();
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
-  const [searchLoding ,setSearchLoding] = useState(false)
- 
+  const [searchLoding, setSearchLoding] = useState(false);
+
   useEffect(() => {
     if (apps.length > 0) {
       setLoading(false);
@@ -23,26 +22,11 @@ const Apps = () => {
     ? apps.filter((product) => product.title.toLowerCase().includes(term))
     : apps;
 
-  
-  useEffect(() => {
-    if (!loading && term && searchedProducts.length === 0) {
-      Swal.fire({
-        icon: "info",
-        title: "No Apps Found!",
-        text: "No apps match your search. Try another name.",
-        confirmButtonColor: "#7C3AED",
-      });
-    }
-  }, [term, searchedProducts, loading]);
-
-
-  const searchHandler =(e) =>{
-  setSearchLoding(true)
-  setTimeout(()=>setSearchLoding(false), 500 )
-   setSearch(e.target.value)
-   
-   
- }
+  const searchHandler = (e) => {
+    setSearchLoding(true);
+    setTimeout(() => setSearchLoding(false), 500);
+    setSearch(e.target.value);
+  };
 
   return (
     <div className="max-w-[1600px] mx-auto">
